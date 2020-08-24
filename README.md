@@ -53,3 +53,11 @@
 ### 6. 변경 사항을 본인 repository에 적용 후 Pull request 요청하기
 
 - 업데이트 한 내역을 본인의 repository에 업로드 후 pull request 버튼을 눌러 요청하기 
+
+## Upstream 에서 업로드 된 사항을 local 및 개인 repository에 가져오는 방법
+
+1. local에 업데이트 사항 적용하기
+   - `git pull upstream master` 입력 후 merge
+
+2. 개인 repository에 업데이트 사항 적용하기
+   - `git push origin master` 입력
