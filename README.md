@@ -15,6 +15,8 @@
 
 ### 5. [water-lilies](water-lilies/)
 
+### 6. [Dalmatian](Dalmatian/)
+
 ## 업로드 방법
 
 1. Github 계정 생성하기
