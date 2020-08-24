@@ -67,3 +67,7 @@
 
 2. 개인 repository에 업데이트 사항 적용하기
    - `git push origin master` 입력
+
+
+
+test2
