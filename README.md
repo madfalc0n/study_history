@@ -11,9 +11,9 @@
 
 ## 업로드 방법
 
-### 1. Github 계정 생성하기
+1. Github 계정 생성하기
 
-### 2. `SSH Key` 등록
+2. `SSH Key` 등록
 
    ```
    ssh-keygen 입력 후 엔터 연발
@@ -23,7 +23,7 @@
    $ cat ~/.ssh/id_rsa.pub
    ```
 
-### 3. Git 환경 설정
+3. Git 환경 설정
 
    - `git config` 명령어를 통해 사용자 이름, 이메일을 등록합니다.
 
@@ -37,22 +37,21 @@
      user.email=chadool116@naver.com
      ```
 
-### 4. Fork the repository
+4. Fork the repository
 
-- github 우측 상단 Fork 버튼 클릭
+   - github 우측 상단 Fork 버튼 클릭
 
-### 5. Clone and setup the forked repository
+5. Clone and setup the forked repository
 
-- Local에 Clone 및 업데이트 사항을 가져오기 위한 upstream 생성
+   - Local에 Clone 및 업데이트 사항을 가져오기 위한 upstream 생성
 
-  ```
-  $ git clone https://github.com/{아이디}/study_history.git
-  $ git remote add upstream https://github.com/madfalc0n/study_history.git
-  ```
+     ```
+     $ git clone https://github.com/{아이디}/study_history.git
+     $ git remote add upstream https://github.com/madfalc0n/study_history.git
+     ```
 
-### 6. 변경 사항을 본인 repository에 적용 후 Pull request 요청하기
-
-- 업데이트 한 내역을 본인의 repository에 업로드 후 pull request 버튼을 눌러 요청하기 
+6. 변경 사항을 본인 repository에 적용 후 Pull request 요청하기
+   - 업데이트 한 내역을 본인의 repository에 업로드 후 pull request 버튼을 눌러 요청하기 
 
 ## Upstream 에서 업로드 된 사항을 local 및 개인 repository에 가져오는 방법
 
