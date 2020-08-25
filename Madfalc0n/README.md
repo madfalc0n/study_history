@@ -21,4 +21,9 @@
 3. 코딩테스트 연습
    - 백준 : 11279([최대 힙](https://www.acmicpc.net/problem/11279))
 4. 자료구조 공부
-   - Heap 
+   - Heap 자료구조
+
+## 2020-08-26
+
+1. 자료구조 공부 및 정리
+   - Heap 자료구조 정리([관련링크](https://github.com/madfalc0n/TIL/blob/master/algorithm_study/doc/heap.md))
