@@ -17,7 +17,7 @@
 
 ### 6. [Dalmatian](Dalmatian/)
 
-## 업로드 방법
+## 0. Git 계정 생성 및 환경 설정
 
 1. Github 계정 생성하기
 
@@ -45,11 +45,13 @@
      user.email=chadool116@naver.com
      ```
 
-4. Fork the repository
+## 1. 원격 repository Fork 및 Clone
+
+1. Fork the repository
 
    - github 우측 상단 Fork 버튼 클릭
 
-5. Clone and setup the forked repository
+2. Clone and setup the forked repository
 
    - Local에 Clone 및 업데이트 사항을 가져오기 위한 upstream 생성
 
@@ -58,14 +60,29 @@
      $ git remote add upstream https://github.com/madfalc0n/study_history.git
      ```
 
-6. 변경 사항을 본인 repository에 적용 후 Pull request 요청하기
-   
-   - 업데이트 한 내역을 본인의 repository에 업로드 후 pull request 버튼을 눌러 요청하기 
+## 2. 변경사항 작성 후 Update
 
-## Upstream 에서 업로드 된 사항을 local 및 개인 repository에 가져오는 방법
+1. 변경사항을 만들때는 현재 master branch에서 새로운 branch를 만들어 수정 사항을 반영하여 Push 한다.
+
+   ```
+   $ git checkout -b {ID_날짜}
+   # ... README 업데이트 ...
+   $ git add {수정한 파일들}
+   # Commit message 작성 및 sign off
+   $ git commit -m "업데이트 내용"
+   $ git push origin {checkout을 통해 생성한 브랜치이름(ID_날짜)}
+   ```
+
+2. 변경 사항을 본인 repository에 적용 후 Pull request 요청하기
+
+   - 업데이트 한 내역을 본인의 repository에 업로드 후 pull request 버튼을 눌러 요청하기
+
+## 3. Upstream 에서 업로드 된 사항이 적용(merge) 된 경우, local 및 개인 repository에 변경사항 병합하기
 
 1. local에 업데이트 사항 적용하기
-   - `git pull upstream master` 입력 후 merge
+   - `git pull upstream` 입력 후 merge
 
-2. 개인 repository에 업데이트 사항 적용하기
-   - `git push origin master` 입력
+
+## 4. 병합완료 후 임시로 생성된 branch 삭제하기
+
+- `git branch -d {ID_날짜}`
