@@ -80,9 +80,13 @@
 ## 3. Upstream 에서 업로드 된 사항이 적용(merge) 된 경우, local 및 개인 repository에 변경사항 병합하기
 
 1. local에 업데이트 사항 적용하기
-   - `git pull upstream` 입력 후 merge
+
+   ```
+   $ git checkout master
+   $ git pull upstream master
+   ```
 
 
 ## 4. 병합완료 후 임시로 생성된 branch 삭제하기
 
-- `git branch -d {ID_날짜}`
+1. `git branch -d {ID_날짜}`
