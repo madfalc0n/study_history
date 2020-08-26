@@ -27,3 +27,6 @@
 
 1. 자료구조 공부 및 정리
    - Heap 자료구조 정리([관련링크](https://github.com/madfalc0n/TIL/blob/master/algorithm_study/doc/heap.md))
+2. 코딩테스트 연습
+   - 프로그래머스
+     - LV2, 힙, [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
