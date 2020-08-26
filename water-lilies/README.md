@@ -6,3 +6,10 @@
 
 1. Linux 공부
    - [관련링크](https://github.com/water-lilies/ComputerScience/tree/master/03_Linux)
+
+
+
+## 2020-08-25
+
+1. 딥러닝 공부
+   - [관련링크](https://github.com/water-lilies/ComputerScience/tree/master/04_DeepLearning)
