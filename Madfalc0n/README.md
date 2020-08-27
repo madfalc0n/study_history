@@ -4,6 +4,17 @@
 
 
 
+## 2020-08-28
+
+1. 기술면접(백엔드) 준비
+
+   1. 면접예상 질문([관련링크](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0))
+   2. HTTP GET, POST 차이([관련링크](https://interconnection.tistory.com/72?category=616434))
+   3. 쿠키와 세션의 차이([관련링크](https://hahahoho5915.tistory.com/32))
+   4. 쿠키와 캐시의 차이([관련링크](https://zorba91.tistory.com/163))
+
+   
+
 ## 2020-08-27
 
 1. 자료구조 공부
