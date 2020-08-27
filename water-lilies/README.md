@@ -9,7 +9,7 @@
 ## 2020-08-27
 
 1. 시계열 모델 공부
-   - [관련링크]([https://github.com/water-lilies/ComputerScience])
+   - [관련링크](https://github.com/water-lilies/ComputerScience)
 
 
 
