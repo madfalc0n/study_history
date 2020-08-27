@@ -12,6 +12,8 @@
    - 프로그래머스
      - LV2, 정렬, [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
        - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/complete/c_lv2_find_max.py)
+     - LV2, 정렬, [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747)
+       - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/complete/c_lv2.h_index.py)
 
 ## 2020-08-26
 
