@@ -35,6 +35,12 @@
 ---
 
 1. DevOps 및 협업 도구 정리
-   - [링크참고](https://www.notion.so/DevOps-2ca679c4c3e840308df52f0f70b70fc2)
+   - [링크참고](https://www.notion.so/CH01-DevOps-0336db8c0dbc4d54829036da98bfa200)
 2. 취업 무료 특강 시청
+
+
+
+### 2020-08-27
+
+--------
 
