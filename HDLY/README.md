@@ -2,6 +2,16 @@
 
 
 
+## 2020-08-27
+
+1. Github, CodingTest 1회 Commit
+
+2. Internship, 교육 2일차, Biz 매너 + 팀 배치
+
+3. 독서, [빅데이터, 사람을 읽다] part 3
+
+   
+
 ## 2020-08-26
 
 1. Github, CodingTest 1회 Commit
