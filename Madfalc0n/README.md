@@ -8,7 +8,10 @@
 
 1. 자료구조 공부
    - 정렬 종류에 따른 시간복잡도([관련링크](http://ejklike.github.io/2017/03/04/sorting-algorithms-with-python.html))
-   - 
+2. 코딩 테스트 연습
+   - 프로그래머스
+     - LV2, 정렬, [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
+       - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/complete/c_lv2_find_max.py)
 
 ## 2020-08-26
 
@@ -17,7 +20,8 @@
 2. 코딩테스트 연습
    - 프로그래머스
      - LV2, 힙, [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
-
+    - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/complete/c_lv2_better_hot.py)
+   
 3. python 이론에 대한 공부
    - GIL(Global Interpreter Lock)
      - [관련링크1](https://github.com/madfalc0n/Interview_Question_for_Beginner/tree/master/Python#%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC-%EC%83%81%EC%86%8D%ED%96%88%EC%9D%84-%EB%95%8C-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%8B%A4%ED%96%89-%EB%B0%A9%EC%8B%9D)
