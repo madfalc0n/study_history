@@ -4,6 +4,19 @@
 
 
 
+## 2020-08-28
+
+1. 기술면접(백엔드) 준비
+
+   1. 면접예상 질문([관련링크](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0))
+   2. 면접예상 질문2(python 위주, [관련링크](https://dingrr.com/blog/post/compiled-vs-interpreted-%EC%96%B8%EC%96%B4))
+   3. HTTP GET, POST 차이([관련링크](https://interconnection.tistory.com/72?category=616434))
+   4. 쿠키와 세션의 차이([관련링크](https://hahahoho5915.tistory.com/32))
+5. 쿠키와 캐시의 차이([관련링크](https://zorba91.tistory.com/163))
+   6. 네트워크 flow control and congestion control([관련링크](https://jsonsang2.tistory.com/17))
+   
+   
+
 ## 2020-08-27
 
 1. 자료구조 공부
@@ -22,7 +35,7 @@
 2. 코딩테스트 연습
    - 프로그래머스
      - LV2, 힙, [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
-    - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/complete/c_lv2_better_hot.py)
+        - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/complete/c_lv2_better_hot.py)
    
 3. python 이론에 대한 공부
    - GIL(Global Interpreter Lock)
