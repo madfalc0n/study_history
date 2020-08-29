@@ -2,6 +2,11 @@
 
 까먹지 말자..
 
+## 2020-08-29
+
+1. 유튜버 동빈나의 '이것이 취업을 위한 코딩 테스트다 with 파이썬 - 다이나믹 프로그래밍' 시청([관련링크](https://www.youtube.com/watch?v=vRFXpqWDbRU))
+2. 
+
 
 
 ## 2020-08-28
@@ -15,7 +20,7 @@
 5. 쿠키와 캐시의 차이([관련링크](https://zorba91.tistory.com/163))
    6. 네트워크 flow control and congestion control([관련링크](https://jsonsang2.tistory.com/17))
    
-   
+2. 캐글 자동주행 컴피티션 데이터 확인([관련링크](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles))
 
 ## 2020-08-27
 
