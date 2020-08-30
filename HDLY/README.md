@@ -2,7 +2,42 @@
 
 
 
-## 2020-08-27
+#### 2020-08-31 (예정)
+
+1. Github, CodingTest 1회 Commit
+
+2. Naver Blog, Places 1개
+
+3. Internship, 3~4일차 보고서 목차 정리
+
+4. 독서, [빅데이터, 사람을 읽다] part 2 정리
+
+   
+
+#### 2020-08-30
+
+1. Github, CodingTest 1회 Commit
+2. Naver Blog, Places 1개 + News 2개 Posting
+3. Internship, 1~2일차 교육 정리 완료
+4. 독서, [빅데이터, 사람을 읽다] part 1 정리 완료
+
+
+
+#### 2020-08-29
+
+1. Github, CodingTest 1회 Commit
+
+   
+
+#### 2020-08-28
+
+1. Github, CodingTest 1회 Commit
+
+2. Internship, 팀 배치, 오전(시스템 세팅) + 오후(보고서 숙지)
+
+   
+
+#### 2020-08-27
 
 1. Github, CodingTest 1회 Commit
 
@@ -10,9 +45,11 @@
 
 3. 독서, [빅데이터, 사람을 읽다] part 3
 
+4. Naver Blog, Places 1개 Posting
+
    
 
-## 2020-08-26
+#### 2020-08-26
 
 1. Github, CodingTest 1회 Commit
 
@@ -20,9 +57,11 @@
 
 3. 독서, [빅데이터, 사람을 읽다] part 1&2
 
+4. Naver Blog, Places 1개 + News 2개씩 Posting
+
    
 
-## 2020-08-25
+#### 2020-08-25
 
 1. Github, CodingTest 1회 Commit
 
@@ -32,7 +71,7 @@
 
    
 
-## 2020-08-24
+#### 2020-08-24
 
 1. Github, CodingTest 1회 Commit
 2. Naver Blog, SQLD 관련 메일
