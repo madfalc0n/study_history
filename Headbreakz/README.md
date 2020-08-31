@@ -4,6 +4,12 @@
 
 ---
 
+* 31일
+  
+  * 프로그래머스 level1 - 22문제 
+  * DFS,BFS 이론 정리 
+  * kaggle - cornell birdcall identification
+  
 * 30일
   
   * 25- 27일 정리
@@ -12,7 +18,7 @@
 * 27일
   
   * 프로그래머스 - 탐욕법 / 구명보트, 큰수 만들기(시간초과),조이스틱(feat.MH)
-  * 프로그래머스 - level 1 / 8 문제
+  * 프로그래머스 - level 1 - 8 문제
   * python - 탐욕법 이론
   * kaggle - cornell birdcall identification
   
