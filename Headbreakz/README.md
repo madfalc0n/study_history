@@ -1,12 +1,25 @@
 ## 2020년
 
+### 9월
+
+---
+
+* 1일
+  * 백준 - Dfs&Bfs 
+  * python -rjust,ljust,center,zfill 정리 - blog
+  * kaggle - cornell birdcall identification
+
+
+
+
+
 ### 8월
 
 ---
 
 * 31일
   
-  * 프로그래머스 level1 - 22문제 
+  * 프로그래머스 level1 - 22문제 + 5문제
   * DFS,BFS 이론 정리 
   * kaggle - cornell birdcall identification
   
