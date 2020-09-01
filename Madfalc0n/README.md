@@ -2,6 +2,12 @@
 
 까먹지 말자..
 
+## 2020-09-01
+
+1. 컴파일러와 인터프리터의 차이([관련링크](https://imasoftwareengineer.tistory.com/43))
+2. 쓰레드 VS 프로세스 차이([관련링크](https://www.youtube.com/watch?v=RrfASw-jfZ4))
+3. 멀티쓰레딩 VS 멀티 프로세싱 차이([관련링크](https://www.youtube.com/watch?v=dzfij2nZbRw))
+
 ## 2020-08-31
 
 1. 이전 구축했던 프로젝트 리뷰
