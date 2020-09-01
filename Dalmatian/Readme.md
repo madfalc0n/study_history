@@ -38,8 +38,8 @@
 
 ---
 
-1. AWS 서비스 정리
-   - [링크참고](https://www.notion.so/CH01-DevOps-0336db8c0dbc4d54829036da98bfa200)
+1. AWS 개념과 클라우드 컴퓨팅, Docker 정리
+   - [링크참고](https://www.notion.so/CH02-AWS-Docker-b39e312684904e2ea8ffd901a86fbd8d)
 2. NCS 교재 스터디
    - 어휘, 독해, 어법
      - 오답체크
@@ -50,8 +50,8 @@
 
 ---------
 
-1. AWS 서비스 정리
-   - [링크참고](https://www.notion.so/CH01-DevOps-0336db8c0dbc4d54829036da98bfa200)
+1. AWS 서비스 및 장단 점 정리
+   - [링크참고](https://www.notion.so/CH02-AWS-Docker-b39e312684904e2ea8ffd901a86fbd8d)
 
 
 
@@ -68,8 +68,15 @@
 
 -------
 
-1. AWS 서비스 정리
+1. AWS 서비스 및 장단 점 정리
 
-   - [링크참고](https://www.notion.so/CH01-DevOps-0336db8c0dbc4d54829036da98bfa200)
+   - [링크참고](https://www.notion.so/CH02-AWS-Docker-b39e312684904e2ea8ffd901a86fbd8d)
 
      
+
+### 2020-09-01
+
+--------
+
+1. AWS 서비스 및 장단 점 정리
+   - [링크참고](https://www.notion.so/CH02-AWS-Docker-b39e312684904e2ea8ffd901a86fbd8d)
