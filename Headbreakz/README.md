@@ -4,6 +4,9 @@
 
 ---
 
+* 2일
+  * 백준 - DFS,BFS review , 미로탐색 ,단지번호 붙이기,바이러스
+  * 프로그래머스 - 네트워크 , 단어변환
 * 1일
   * 백준 - Dfs&Bfs 
   * python -rjust,ljust,center,zfill 정리 - blog
