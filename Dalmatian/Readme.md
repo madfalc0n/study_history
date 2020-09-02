@@ -10,10 +10,8 @@
 1. 클라우드 도입 효과를 제대로 보려면
    - [링크참고](https://blog.naver.com/businessinsight/221859909601)
 2. Amazon, MS, Google 중 어떤 업체의 클라우드 서비스가 잘 맞을까?
-
-- [링크참고](https://blog.naver.com/businessinsight/221836726030)
-
-1. AWS, MS, GCP 서비스 비교
+   - [링크참고](https://blog.naver.com/businessinsight/221836726030)
+3. AWS, MS, GCP 서비스 비교
    - [링크참고](https://infraboy.tistory.com/entry/GCP-AWS-vs-GCP-클라우드-서비스-기능-비교)
 
 ### 2020-08-25
@@ -72,4 +70,20 @@
 
    - [링크참고](https://www.notion.so/CH01-DevOps-0336db8c0dbc4d54829036da98bfa200)
 
-     
+
+
+### 2020-09-01
+
+-----
+
+1. 프로젝트 정리
+2. NCS 교재 스터디
+   - 유의어/반의어/어휘/독해/어법 복습
+
+
+
+### 2020-09-02
+
+--------
+
+1. 프로젝트 정리
