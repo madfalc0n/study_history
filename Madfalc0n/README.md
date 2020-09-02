@@ -2,6 +2,13 @@
 
 까먹지 말자..
 
+## 2020-09-02
+
+1. python 세마포어([관련링크](https://bisn.tistory.com/16))
+2. WEB 소켓과 TCP 소켓의 차이?([관련링크](https://stackoverflow.com/questions/2681267/what-is-the-fundamental-difference-between-websockets-and-pure-tcp?lq=1))
+3. HTTP 동작 및 헤더 종류 공부([관련링크](https://gmlwjd9405.github.io/2019/04/17/what-is-http-protocol.html))
+4. 면접시 자기소개 꿀팁([관련링크](https://www.youtube.com/watch?v=_B2VjB_M04w))
+
 ## 2020-09-01
 
 1. 컴파일러와 인터프리터의 차이([관련링크](https://imasoftwareengineer.tistory.com/43))
