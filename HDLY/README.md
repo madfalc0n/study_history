@@ -2,13 +2,26 @@
 
 
 
-#### 2020-09-02 (예정)
+#### 2020-09-03 (예정)
+
+1. ~~Github, CodingTest 1회 Commit~~
+
+2. Naver Blog, Places 1개
+
+3. Internship, 7일차  정리
+
+4. 독서, [빅데이터, 사람을 읽다] part 3 정리
+
+5. 데이터 모델링 기법 정리 : XGBoost, MLP, LASSO, Ridge, PCR, PLS / R-Square, MAPE
+
+   
+
+#### 2020-09-02 
 
 1. Github, CodingTest 1회 Commit
 2. Naver Blog, Places 1개
-3. Internship, 6일차 목차 작성(가능하면 정리까지)
-4. 독서, [빅데이터, 사람을 읽다] part 3 정리
-5. 데이터 모델링 기법 정리 : XGBoost, MLP, LASSO, Ridge, PCR, PLS / R-Square, MAPE
+3. Internship, 6일차  정리
+4. 독서, [빅데이터, 사람을 읽다] part 2 정리
 
 
 
@@ -18,7 +31,7 @@
 
 3. Internship, 4일차 보고서  정리 + 5일차 목차 작성
 
-5. 데이터 모델링 기법 정리 : XGBoost, MLP, LASSO, Ridge, PCR, PLS / R-Square, MAPE
+5. ~~데이터 모델링 기법 정리 : XGBoost, MLP, LASSO, Ridge, PCR, PLS / R-Square, MAPE~~
 
    
 
@@ -30,9 +43,8 @@
 
 3. Internship, 3~4일차 보고서 목차 정리
 
-4. 독서, [빅데이터, 사람을 읽다] part 2 정리
-
    
+
 
 #### 2020-08-30
 
