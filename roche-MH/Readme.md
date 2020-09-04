@@ -1,5 +1,17 @@
 # roche-MH History
 
+## 2020-09-04
+
+1. 알고리즘
+   * 후보키
+   * [3차] 방금그곡
+   * [3차] 압축
+   * [3차] 파일명 정렬
+   * [3차] n진수게임 (level2 마지막 문제)
+2. Dacon 산업제어 시스템
+   * TaPR F1 Validation score 0.977
+   * score 을 좀더 높일순 있을거 같은데 test 데이터에 대해서는 validation에 비해 떨어져서 수정이 필요해보임 
+
 ## 2020-09-03
 
 1. 알고리즘
@@ -7,7 +19,7 @@
    * [1차] 캐시
    * 오픈채팅방
 2. Dacon 산업제어 시스템
-   * Today  My F1 Best score(0.968), Dacon LB 1st(0.97521) 
+   * Validation score(0.966)
 
 ## 2020-09-02
 
