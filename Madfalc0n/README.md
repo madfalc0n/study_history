@@ -2,9 +2,12 @@
 
 까먹지 말자..
 
-## 2020-09-04
+## 2020-09-05
 
-1. 알고리즘 문제 풀 예정
+1. 코딩 테스트 연습
+   - 프로그래머스
+     - LV2, KAKAO2020, [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
+       - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/042e58e3cb1b7f03c9616d3ae24b22ba8fd9f944/algorithm/programmers/complete/c_2020_kakao_si_2.py)
 
 ## 2020-09-02
 
