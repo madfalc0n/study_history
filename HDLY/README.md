@@ -2,9 +2,9 @@
 
 
 
-#### 2020-09-04 (예정)
+#### 2020-09-06 (예정)
 
-1. ~~Github, CodingTest 1회 Commit~~
+1. Github, CodingTest 1회 Commit
 
 2. Naver Blog, Places 1개
 
@@ -14,7 +14,21 @@
 
 5. 데이터 모델링 기법 정리 : XGBoost, MLP, LASSO, Ridge, PCR, PLS / R-Square, MAPE
 
+
+
+#### 2020-09-05
+
+1. Github, CodingTest 1회 Commit
+
    
+
+
+#### 2020-09-04
+
+1. Github, CodingTest 1회 Commit
+
+   
+
 
 #### 2020-09-03
 
