@@ -2,6 +2,21 @@
 
 까먹지 말자..
 
+## 2020-09-06
+
+코딩 테스트 연습
+
+- 프로그래머스
+  - LV1, KAKAO2019, [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
+    - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/complete/c_lv1_2019_kakao_fail.py)
+
+## 2020-09-05
+
+1. 코딩 테스트 연습
+   - 프로그래머스
+     - LV2, KAKAO2020, [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
+       - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/042e58e3cb1b7f03c9616d3ae24b22ba8fd9f944/algorithm/programmers/complete/c_2020_kakao_si_2.py)
+
 ## 2020-09-02
 
 1. python 세마포어([관련링크](https://bisn.tistory.com/16))

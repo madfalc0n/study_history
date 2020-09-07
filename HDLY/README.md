@@ -1,10 +1,20 @@
 # HDLY's logs
 
+데이터 모델링 기법 정리 : XGBoost, MLP, LASSO, Ridge, PCR, PLS / R-Square, MAPE
 
 
-#### 2020-09-04 (예정)
 
-1. ~~Github, CodingTest 1회 Commit~~
+#### 2020-09-07 (예정)
+
+1. Github, CodingTest 1회 Commit
+
+2. 독서, [빅데이터, 사람을 읽다] part 4 정리
+
+
+
+#### 2020-09-06
+
+1. Github, CodingTest 1회 Commit
 
 2. Naver Blog, Places 1개
 
@@ -12,9 +22,23 @@
 
 4. 독서, [빅데이터, 사람을 읽다] part 3 정리
 
-5. 데이터 모델링 기법 정리 : XGBoost, MLP, LASSO, Ridge, PCR, PLS / R-Square, MAPE
+5. 데이터 모델링 과제, 아이디어 구상
+
+
+
+#### 2020-09-05
+
+1. Github, CodingTest 1회 Commit
 
    
+
+
+#### 2020-09-04
+
+1. Github, CodingTest 1회 Commit
+
+   
+
 
 #### 2020-09-03
 
