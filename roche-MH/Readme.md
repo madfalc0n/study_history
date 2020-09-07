@@ -1,5 +1,29 @@
 # roche-MH History
 
+# 2020-09-07
+
+1. 알고리즘 문제
+   * [1차] 추석 트래픽
+   * N으로 표현
+   * 2xn 타일링
+   * 네트워크
+   * 정수 삼각형
+2. 이력서 제출
+3. CS 정리
+
+# 2020-09-06
+
+1. 이력서 제출
+2. Dacon 산업제어 시스템
+   * Decoupled weight decay regularization 논문 읽기 (AdamW)
+   * TaPR 평가 척도 "Time-Series Aware Precision and Recall for Anomaly Detetion"논문 다시 읽기
+
+# 2020-09-05
+
+1. Dacon 산업제어 시스템
+   * 파라미터 수정 및 loss 변경 테스트
+   * TaPR F1 Validation score 0.981
+
 ## 2020-09-04
 
 1. 알고리즘
