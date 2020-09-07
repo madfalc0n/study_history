@@ -7,7 +7,11 @@
 1. 코딩 테스트 연습
    - 프로그래머스
      - LV1, 완전탐색, [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
-       - [풀이코드]()
+       - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/complete/c_lv1_moigosa.py)
+     - LV2, 완전탐색, [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
+       - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/complete/c_lv2_find_sosoo.py)
+     - LV3, 완전탐색, [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
+       - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/complete/c_lv3_carpet.py)
 
 ## 2020-09-06
 
