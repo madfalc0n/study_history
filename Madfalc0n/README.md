@@ -2,13 +2,19 @@
 
 까먹지 말자..
 
+## 2020-09-07
+
+1. 코딩 테스트 연습
+   - 프로그래머스
+     - LV1, 완전탐색, [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
+       - [풀이코드]()
+
 ## 2020-09-06
 
-코딩 테스트 연습
-
-- 프로그래머스
-  - LV1, KAKAO2019, [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
-    - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/complete/c_lv1_2019_kakao_fail.py)
+1. 코딩 테스트 연습
+   - 프로그래머스
+     - LV1, KAKAO2019, [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
+       - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/complete/c_lv1_2019_kakao_fail.py)
 
 ## 2020-09-05
 
