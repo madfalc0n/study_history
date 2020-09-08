@@ -7,8 +7,9 @@
 1. 코딩 테스트 연습
 
     - 프로그래머스
-      - LV2, DFS/BFS, [타겟넘버(푸는중)](https://programmers.co.kr/learn/courses/30/lessons/43165)
-        - [풀이코드]()
+      - LV2, DFS/BFS, [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
+        - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/complete/c_lv2_target_number.py)
+2. 정규표현식 공부([관련링크](https://programmers.co.kr/learn/courses/11))
 
 ## 2020-09-07
 
