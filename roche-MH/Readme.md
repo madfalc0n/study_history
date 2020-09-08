@@ -1,5 +1,17 @@
 # roche-MH History
 
+# 2020-09-08
+
+1. BFS&DFS 알고리즘 재정리
+2. 알고리즘 문제
+   * 단어변환
+   * 가장 먼 노드
+   * 게임 맵 최단거리
+   * 특정거리의 도시찾기
+   * 경쟁적 전염
+3. Dacon 산업제어 시스템
+   * Decoupled weight decay regularization 논문 읽기 (AdamW)
+
 # 2020-09-07
 
 1. 알고리즘 문제
