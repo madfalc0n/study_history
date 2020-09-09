@@ -2,6 +2,17 @@
 
 까먹지 말자..
 
+## 2020-09-09
+
+1. DFS/BFS 복습, 백트래킹 공부
+   - 백트래킹은 뭐다? DFS + 가지치기 이다
+2. 코딩 테스트 연습
+
+   - 백준
+     - [DFS/BFS](https://www.acmicpc.net/problem/1260)
+       - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/baekjun/complete/c_1260_BFS_DFS.py)
+3. 자소서 작성
+
 ## 2020-09-08
 
 1. 코딩 테스트 연습
