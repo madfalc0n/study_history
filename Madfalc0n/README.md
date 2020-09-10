@@ -2,6 +2,18 @@
 
 까먹지 말자..
 
+## 2020-09-10
+
+1. 코딩 테스트 연습
+   - 백준
+     - [단지번호 붙이기](https://www.acmicpc.net/problem/2667)
+       - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/baekjun/complete/c_2667_put_area 2.py)
+   - 프로그래머스
+     - [월간 코드 챌린지(9월)](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/regular_test/9/%EC%9B%94%EA%B0%84_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%A7%A4%EB%9F%AC%EC%8A%A4_9%EC%9B%94.md)
+       - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/regular_test/9)
+2. 자소서 작성
+
+
 ## 2020-09-09
 
 1. DFS/BFS 복습, 백트래킹 공부
