@@ -2,6 +2,16 @@
 
 까먹지 말자..
 
+## 2020-09-11
+
+1. 코딩 테스트 연습
+   - 프로그래머스
+     - LV3, 2020카카오인턴쉽, [보석쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)
+       - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/complete/c_lv3_2020_kakao_si_3.py)
+     - LV3, 2020카카오인턴쉽, [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)
+       - 푸는중
+2. 자소서 작성 및 취업 특강 시청
+
 ## 2020-09-10
 
 1. 코딩 테스트 연습
