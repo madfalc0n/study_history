@@ -4,6 +4,11 @@
 
 ---
 
+* 11일
+  * 병무청 AI 챗봇 '아라' review - blog
+  * recipes for building an open-domain chatbot 논문 review (진행중)
+  * 프로그래머스 - 뉴스 클러스터링, 프렌즈4블록
+  * 7~11일 프로그래머스 code 
 * 10일
   * 프로그래머스 - 추석트래픽 (80%)
   * 한권으로 개발자가 원하던 파이선 심화 a to z (70%)
