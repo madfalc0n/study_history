@@ -4,6 +4,8 @@
 
 ---
 
+* 12일
+  * 2021 kakao blind test..
 * 11일
   * 병무청 AI 챗봇 '아라' review - blog
   * recipes for building an open-domain chatbot 논문 review (진행중)
