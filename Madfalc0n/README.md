@@ -2,6 +2,15 @@
 
 까먹지 말자..
 
+## 2020-09-12
+
+1. 코딩 테스트 연습
+   - 프로그래머스
+     - LV3, 2020카카오인턴쉽, [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)
+       - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/complete/c_lv3_2020_kakao_si_4.py)
+2. 카카오 코테
+   - 1문제 빼고 다 제대로 못품...
+
 ## 2020-09-11
 
 1. 코딩 테스트 연습
@@ -17,7 +26,7 @@
 1. 코딩 테스트 연습
    - 백준
      - [단지번호 붙이기](https://www.acmicpc.net/problem/2667)
-       - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/baekjun/complete/c_2667_put_area 2.py)
+       - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/baekjun/complete/c_2667_put_area_2.py)
    - 프로그래머스
      - [월간 코드 챌린지(9월)](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/regular_test/9/%EC%9B%94%EA%B0%84_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%A7%A4%EB%9F%AC%EC%8A%A4_9%EC%9B%94.md)
        - [풀이코드](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/programmers/regular_test/9)
