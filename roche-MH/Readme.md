@@ -1,5 +1,10 @@
 # roche-MH History
 
+# 2020-09-14
+1. Dacon 산업제어 시스템
+   * Decoupled weight decay regularization 논문 읽기 (AdamW)
+2. 에칭프로젝트 환경설정
+
 # 2020-09-13
 라인 하반기 코딩테스트
 # 2020-09-12
