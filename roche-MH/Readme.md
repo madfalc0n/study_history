@@ -1,5 +1,15 @@
 # roche-MH History
 
+# 2020-09-15
+
+1. Dacon 산업제어 시스템
+   * Decoupled weight decay regularization 논문 정리
+   * Dacon weight decay 적용해보기 2회 제출
+2. 에칭 프로젝트 리뉴얼
+3. 알고리즘
+   * 배달
+   * 거스름돈
+
 # 2020-09-14
 
 1. Dacon 산업제어 시스템
