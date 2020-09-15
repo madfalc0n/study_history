@@ -2,6 +2,18 @@
 
 까먹지 말자..
 
+## 2020-09-15
+
+1. 코딩테스트 연습
+   - 백준
+     - [백트래킹 day](https://www.acmicpc.net/step/34)
+       - [풀이리스트](https://github.com/madfalc0n/my_coding_labs/blob/master/algorithm/baekjun/back_tracking/)
+2. 자소서 작성
+
+## 2020-09-14
+
+1. 세계 근황 조사
+
 ## 2020-09-13
 
 1. 자소서 작성

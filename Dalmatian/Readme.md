@@ -211,3 +211,19 @@
 
 1. 이력서 쓰기
 2. SpringBoot 세팅
+
+
+
+### 2020-09-15
+
+---
+
+1. GSAT 2회 모의고사
+   - 오답 정리
+2. SpringBoot 세팅
+   - SpringBoot 적용
+3. 빗버킷 활용법 시청
+4. 직무분석 및 정리
+5. 유튜브 시청
+   - AWS 서비스 관련
+6. AWS Professional Certified 정리
