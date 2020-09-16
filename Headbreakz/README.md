@@ -4,6 +4,9 @@
 
 ---
 
+* 16일
+  * 서류 제출 2곳
+  * Recipes for building an open-domain chatbot 살펴보기 1 -  blog
 * 15일
   * 한권으로 개발자가 원하던 파이선 심화 a to z (100%)
 * 14일
@@ -14,7 +17,7 @@
   * 2021 kakao blind test..
 * 11일
   * 병무청 AI 챗봇 '아라' review - blog
-  * recipes for building an open-domain chatbot 논문 review (진행중)
+  * recipes for building an open-domain chatbot 논문 읽기
   * 프로그래머스 - 뉴스 클러스터링, 프렌즈4블록
   * 7~11일 프로그래머스 code 
 * 10일
