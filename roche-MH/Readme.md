@@ -1,8 +1,15 @@
 # roche-MH History
 
+# 2020-09-16
+
+1. Dacon
+   * weight decay 적용후 2회 제출(점수 상승, epoch 늘려서 2차 테스트 예정)
+   * scheduler 적용 예정
+2.  알고리즘 dp
+
 # 2020-09-15
 
-1. Dacon 산업제어 시스템
+1. Dacon
    * Decoupled weight decay regularization 논문 정리
    * Dacon weight decay 적용해보기 2회 제출
 2. 에칭 프로젝트 리뉴얼
@@ -12,23 +19,14 @@
 
 # 2020-09-14
 
-1. Dacon 산업제어 시스템
+1. Dacon
    * Decoupled weight decay regularization 논문 읽기 (AdamW)
-2. 에칭 프로젝트 (리뉴얼)
+2. 에칭 프로젝트 환경설정
 
 # 2020-09-13
 
 라인 하반기 코딩테스트
 
-=======
-# 2020-09-14
-1. Dacon 산업제어 시스템
-   * Decoupled weight decay regularization 논문 읽기 (AdamW)
-2. 에칭프로젝트 환경설정
-
-# 2020-09-13
-라인 하반기 코딩테스트
->>>>>>> 4c185acbb5ffaadf34441dc38c9fdc08f4beae65
 # 2020-09-12
 2021 카카오 블라인드 코딩테스트
 # 2020-09-11
@@ -68,7 +66,7 @@
    * 게임 맵 최단거리
    * 특정거리의 도시찾기
    * 경쟁적 전염
-3. Dacon 산업제어 시스템
+3. Dacon
    * Decoupled weight decay regularization 논문 읽기 (AdamW)
 
 # 2020-09-07
@@ -85,7 +83,7 @@
 # 2020-09-06
 
 1. 이력서 제출
-2. Dacon 산업제어 시스템
+2. Dacon
    * Decoupled weight decay regularization 논문 읽기 (AdamW)
    * TaPR 평가 척도 "Time-Series Aware Precision and Recall for Anomaly Detetion"논문 다시 읽기
 
@@ -105,7 +103,7 @@
    * [3차] n진수게임 (level2 마지막 문제)
 2. Dacon 산업제어 시스템
    * TaPR F1 Validation score 0.977
-   * score 을 좀더 높일순 있을거 같은데 test 데이터에 대해서는 validation에 비해 떨어져서 수정이 필요해보임 
+   * score 을 좀더 높일순 있을거 같은데 test 데이터에 대해서는 validation에 비해 떨어져서 수정이 필요해보임 (overfit 되는거 같다)
 
 ## 2020-09-03
 
