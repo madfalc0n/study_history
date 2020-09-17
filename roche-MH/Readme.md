@@ -1,11 +1,25 @@
 # roche-MH History
 
+# 2020-09-17
+
+1. 이력서 작성
+2. Dacon(3회제출)
+   * stride 변경, 너무 낮으면 학습시 오래 걸림
+   * scheduler = CosineAnnealingWarmUpRestarts 적용해봤지만 효과가 없었음 내가 잘못한거일수도
+3. 알고리즘 투포인트알고리즘
+4. cs 정리
+
+
+
 # 2020-09-16
 
-1. Dacon
+1. 친형 회사 장애 도움
+   * 80port syn_recv 발생 (syn flood 공격같았음)
+   * syncookies,백로그큐 크기, reties 시간 축소 등 커널튜닝후 이슈 종료
+2. Dacon
    * weight decay 적용후 2회 제출(점수 상승, epoch 늘려서 2차 테스트 예정)
    * scheduler 적용 예정
-2.  알고리즘 dp
+3.  알고리즘 dp
 
 # 2020-09-15
 
