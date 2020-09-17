@@ -4,6 +4,8 @@
 
 ---
 
+* 17일
+  * 휴식
 * 16일
   * 서류 제출 2곳
   * Recipes for building an open-domain chatbot 살펴보기 1 -  blog
