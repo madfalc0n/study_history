@@ -3,7 +3,7 @@
 # 2020-09-17
 
 1. 이력서 작성
-2. Dacon
+2. Dacon(3회제출)
    * stride 변경, 너무 낮으면 학습시 오래 걸림
    * scheduler = CosineAnnealingWarmUpRestarts 적용해봤지만 효과가 없었음 내가 잘못한거일수도
 3. 알고리즘 투포인트알고리즘
