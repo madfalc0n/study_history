@@ -1,8 +1,8 @@
 # Dalmatian's Study History
 
-- 나의 일과. 부지런히 움직이자이!
-  - 운동도 열심히
-    - 10k 43' / half 1'40``/ full 3'45'' go
+- 나의 하루 일과 리스트
+  - & 운동도 열심히
+    - 10k 43' / half 1'40``/ full 3'45'' sub4 go
 
 
 
@@ -262,3 +262,20 @@
    - MSA 구성 사례 시청
 
    - SDS Cloud Native 환경의 개발 및 운영 사례 시청
+
+
+
+### 2020-09-18
+
+------
+
+1. GSAT 3회 모의고사
+   - 오답정리
+2. AWS Server - RDS 설정 
+3. 기업 분석
+4. 이력서 작성
+5. 유튜브 시청
+   - 클라우드 네이티브 아키텍처(CNA) 이해하기
+   - EKS 로그 CloudWatch에 저장하기
+   - AWS Kubernetes 서비스 자세히 살펴보기
+
