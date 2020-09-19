@@ -1,5 +1,15 @@
 # roche-MH History
 
+# 2020-09-19
+
+1. 이력서 제출
+2. Dacon(3회 제출)
+   * CosineAnnealingWarmUpRestarts 적용
+   * 모델 및 stride 수정
+3. 알고리즘
+   * 멀리뛰기
+   * 최고의집합 
+
 # 2020-09-18
 
 1. 이력서 제출
