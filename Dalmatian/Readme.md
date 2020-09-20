@@ -296,3 +296,14 @@
    - 클라우드 네이티브와 마이크로 서비스
    - 마이크로서비스 기반 클라우드 아키텍처 사례
      - 정리
+
+
+
+### 2020-09-20
+
+-----
+
+1. 유튜브 시청
+   - Amazon vs Azure
+   - AWS Lambda와 API Gateway를 통한 Serverless Architecture
+
