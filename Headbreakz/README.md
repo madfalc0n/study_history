@@ -4,6 +4,9 @@
 
 ---
 
+* 21일
+  * Recipes for building an open-domain chatbot 살펴보기 2 -  blog
+  * facebook Ai chatbot Blender 사용방법 - blog
 * 19-20일
   * 의약품 사용과오 예방을 위한 CNN 기반 경구투여 알약의 유사 외관 및 상품명 분류 모형 개발 논문 도움
 * 17일
