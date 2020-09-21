@@ -210,7 +210,8 @@
 -------
 
 1. 이력서 쓰기
-2. SpringBoot 세팅
+2. 개인 프로젝트
+   - SpringBoot 세팅
 
 
 
@@ -220,7 +221,7 @@
 
 1. GSAT 2회 모의고사
    - 오답 정리
-2. SpringBoot 세팅
+2. 개인 프로젝트
    - SpringBoot 적용
 3. 빗버킷 활용법 시청
 4. 직무분석 및 정리
@@ -272,16 +273,22 @@
 1. GSAT 3회 모의고사
    
    - 오답정리
-2. AWS Server - RDS 설정 
+   
+2. 개인 프로젝트
+
+   - AWS Server - RDS 설정
+
 3. 기업 분석
+
 4. 이력서 작성
+
 5. 유튜브 시청
    - 클라우드 네이티브 아키텍처(CNA) 이해하기
-   
+
    - EKS 로그 CloudWatch에 저장하기
-   
+
    - AWS Kubernetes 서비스 자세히 살펴보기
-   
+
      
 
 
@@ -307,3 +314,16 @@
    - Amazon vs Azure
    - AWS Lambda와 API Gateway를 통한 Serverless Architecture
 
+
+
+### 2020-09-21
+
+-----------
+
+1. 기초수리 복습
+2. 이력서 작성
+3. 일정 정리
+4. 개인 프로젝트
+   - S3 설정 및 이미지 업로드
+
+5. 포트폴리오 리뷰
