@@ -336,9 +336,23 @@
 
 1. 기초수리 복습
 2. 이력서 작성
-3. 슼크 화상면접 질문 정리
+3. 슼킄 화상면접 질문 정리
 4. 유튜브 시청
    - Kubernetes를 이용한 서비스 구축과 Openshift
    - docker-compose를 이용한 개발환경 구축
    - python 개발환경 구축하기
 
+
+
+### 2020-09-23
+
+---
+
+1. 슼킄 현직자 화상 통화
+   - 내용 정리
+2. 기초수리 복습
+3. AWS Certified Solutions Architect Study
+4. 유튜브 시청
+   - Amazon Redshift 기반 DW와 비지니스 인텔리전스 구현 방법
+   - 왜 우리는 마이크로서비스를 구현하고자 하는가?
+5. 일정 정리
