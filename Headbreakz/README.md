@@ -4,6 +4,12 @@
 
 ---
 
+* 23일
+  * 서류 제출
+  * 지원 회사 분석
+  * Github - challenge 폴더 추가
+  * Github - TIL에 BLog 내용 추가
+  * 프로그래머스 - 프린트, 스킬트리, 124숫자의 나라
 * 21일
   * Recipes for building an open-domain chatbot 살펴보기 2 -  blog
   * facebook Ai chatbot Blender 사용방법 - blog
