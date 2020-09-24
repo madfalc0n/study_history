@@ -348,7 +348,7 @@
 
 ---
 
-1. 슼킄 현직자 화상 통화
+1. 슼킄 CNE직무 현직자 화상 통화
    - 내용 정리
 2. 기초수리 복습
 3. AWS Certified Solutions Architect Study
@@ -356,3 +356,15 @@
    - Amazon Redshift 기반 DW와 비지니스 인텔리전스 구현 방법
    - 왜 우리는 마이크로서비스를 구현하고자 하는가?
 5. 일정 정리
+
+
+
+### 2020-09-24
+
+----------
+
+1. 이력서 쓰기
+2. AWS Certified Solutions Architect Study
+3. AWS Professional Certified 시작
+4. 기초언어 복습
+
