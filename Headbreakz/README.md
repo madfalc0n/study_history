@@ -4,6 +4,8 @@
 
 ---
 
+* 28일
+  * code test 다시 풀기
 * 27일
   * naver code test
 * 24일
