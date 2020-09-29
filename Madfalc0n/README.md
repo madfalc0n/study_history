@@ -2,6 +2,11 @@
 
 까먹지 말자..
 
+## 2020-09-29
+
+1. 자소서 작성
+2. one-stage object detection(yolov5, efficientdet) 확인
+
 ## 2020-09-28
 
 1. 자소서 작성
