@@ -1,5 +1,13 @@
 # roche-MH History
 
+# 2020-09-30
+
+1. 2048 유전알고리즘 + minimax 알고리즘(toyproject)
+   * Heuristics
+   * minimax(www.aistudy.com/heuristic/adversarial_ssearch_nilsson.htm)
+   * 유전알고리즘 적용
+2. 알고리즘 2문제
+
 # 2020-09-29
 
 1. 11번가 코딩테스트
