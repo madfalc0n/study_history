@@ -1,8 +1,8 @@
 # Dalmatian's Study History
 
 - 나의 하루 일과 리스트
-  - & 운동도 열심히
-    - 10k 43' / half 1'40``/ full 3'45'' sub4 go
+  - 운동도 열심히
+    - 10k 45'' / half 1'40'' / full 3'45'' sub4 go
 
 
 
@@ -461,3 +461,12 @@
    - AWS 클라우드 기반 나의 첫 웹 애플리케이션 만들기
 2. 이력서 작성
 3. 리마 공부
+
+
+
+### 2020-10-04
+
+--------
+
+1. 리마 공부
+3. AWS Solution Architecture Professional 공부
