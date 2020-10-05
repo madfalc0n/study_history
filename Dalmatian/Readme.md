@@ -470,3 +470,14 @@
 
 1. 리마 공부
 3. AWS Solution Architecture Professional 공부
+
+
+
+### 2020-10-05
+
+-------
+
+1. 일정 정리
+2. 리마 공부
+3. AWS Solution Architecture Professional 공부
+4. SpringBoot 인강
