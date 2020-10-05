@@ -5,7 +5,7 @@
 ## 2020-10-05
 
 1. 자소서 작성
-2. Object-detection 테스트 예정
+2. Object-detection  환경 구성 및 baseline 테스트
 
 ## 2020-10-04
 
