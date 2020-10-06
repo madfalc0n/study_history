@@ -2,6 +2,13 @@
 
 까먹지 말자..
 
+## 2020-10-06
+
+1. Object detection 관련 baseline 테스트
+2. 프로그래머스 과제관(머신러닝) 제출
+   - all value set 1 = 15.6%
+   - all value set 0 = 84.3%
+
 ## 2020-10-05
 
 1. 자소서 작성
