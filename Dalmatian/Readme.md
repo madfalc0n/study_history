@@ -481,3 +481,25 @@
 2. 리마 공부
 3. AWS Solution Architecture Professional 공부
 4. SpringBoot 인강
+
+
+
+### 2020-10-06
+
+---
+
+1. PJ Review
+2. 서울 복귀
+   - 휴식
+
+
+
+### 2020-10-07
+
+-------
+
+1. SpringBoot 인강
+2. 이력서 작성
+3. 리마 공부
+4. AWS Solution Architecture Professional 공부
+
