@@ -503,3 +503,13 @@
 3. 리마 공부
 4. AWS Solution Architecture Professional 공부
 
+
+
+### 2020-10-08
+
+--------
+
+1. 리마 공부
+2. 인적성 공부
+3. SpringBoot 인강
+
