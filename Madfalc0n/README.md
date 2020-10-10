@@ -8,7 +8,8 @@
 
 1. 3sung coding test practice
 2. writing resume
-3. CS 기초 공부(예정)
+3. programmers 2020 winter coding internship submit
+4. CS 기초 공부(예정)
 
 ## 2020-10-08
 
