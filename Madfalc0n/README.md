@@ -2,7 +2,11 @@
 
 까먹지 말자..
 
+## 2020-10-10
 
+1. SKT coding test(codility)
+2. 3sung coding test practice
+3. 
 
 ## 2020-10-09
 
