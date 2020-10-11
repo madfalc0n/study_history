@@ -2,11 +2,15 @@
 
 까먹지 말자..
 
+## 2020-10-11
+
+1. 삼성 코테 준비
+2. 자소서 작성
+
 ## 2020-10-10
 
 1. SKT coding test(codility)
 2. 3sung coding test practice
-3. 
 
 ## 2020-10-09
 
