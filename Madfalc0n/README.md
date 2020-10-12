@@ -1,6 +1,10 @@
 ## Madfalcon's Study History
 
-까먹지 말자..
+keep going!
+
+## 2020-10-12
+
+1. 자소서 작성
 
 ## 2020-10-11
 
