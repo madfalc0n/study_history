@@ -4,6 +4,12 @@
 
 ---
 
+* 13일
+
+  * 서류 제출
+  * '오늘 어때' 카카오 챗봇 project 시작
+  * 프로그래머스_SQL - SELECT
+  
 * 10일
 
   * back-end code test
