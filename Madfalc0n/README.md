@@ -2,6 +2,12 @@
 
 keep going!
 
+## 2020-10-14
+
+1. 삼성 코테 준비
+2. 자소서 작성
+3. Object Detection baseline review
+
 ## 2020-10-13
 
 1. 삼성 코테 준비
