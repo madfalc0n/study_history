@@ -5,6 +5,10 @@ keep going!
 ## 2020-10-17
 
 1. 삼성코테만 하루종일 풀었습니다. 내일 시험이거든요
+   1. [관련링크1](https://github.com/madfalc0n/my_coding_labs/commit/6c31d8711c667fc9d6d8dcce34f46c2d0baf8cc8)
+   2. [관련링크2](https://github.com/madfalc0n/my_coding_labs/commit/a4f11427d86cf05b84b93eddcc676cecaaebf8a6)
+   3. [관련링크3](https://github.com/madfalc0n/my_coding_labs/commit/59d20efc7b55303d2976969162ea704436abaf9c)
+   4. [관련링크4](https://github.com/madfalc0n/my_coding_labs/commit/528edb3c4deb84b2caee7a18a08660faecba348e)
 
 ## 2020-10-16
 
