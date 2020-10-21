@@ -2,6 +2,11 @@
 
 keep going!
 
+## 2020-10-20
+
+1. 이력서 제출
+2. Obeject detection baseline test
+
 ## 2020-10-19
 
 1. 휴식
