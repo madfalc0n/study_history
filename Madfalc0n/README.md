@@ -2,6 +2,11 @@
 
 keep going!
 
+## 2020-10-21
+
+1. Obeject detection baseline test
+   - colab ram is not enough....
+
 ## 2020-10-20
 
 1. 이력서 제출
