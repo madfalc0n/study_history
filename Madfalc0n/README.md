@@ -2,6 +2,13 @@
 
 keep going!
 
+## 2020-10-21
+
+1. Obeject detection baseline test
+   - colab ram is not enough....
+2. Study path finding algorithm
+   - [Link](https://github.com/madfalc0n/TIL/algorithm_study/doc/Path_find_algorithm.md)
+
 ## 2020-10-20
 
 1. 이력서 제출
