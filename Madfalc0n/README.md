@@ -2,6 +2,10 @@
 
 keep going!
 
+## 2020-10-23
+
+1. NIPA 예선 진행
+
 ## 2020-10-21
 
 1. Obeject detection baseline test
