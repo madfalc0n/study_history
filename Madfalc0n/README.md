@@ -2,6 +2,25 @@
 
 keep going!
 
+## 2020-10-25
+
+1. NIPA 예선 과제 진행
+   - train ing.......
+     - dataset length is 16000.. so i split dataset 
+       1. 0 to 4000
+       2. 4000 to 8000
+       3. 8000 to 12000
+       4. 12000 to 16000
+     - use 4-fold(train/test), so total 16 iteration process
+     - training data is plant images, predict is plant+disease
+     - use model efficientnet B3
+     - no use image augmentation(Ram limit)
+     - i expect training to take max 13 hours
+       - 1 step = 60s 
+       - epoch = 50
+       - 1 fold = 1 step * epoch = 3000s
+       - total time = 4 fold * 4 iter = 12000s * 4 = 48000s = 13h
+
 ## 2020-10-24
 
 1. NIPA 예선 과제 진행
