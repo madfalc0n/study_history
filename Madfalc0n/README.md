@@ -2,6 +2,12 @@
 
 keep going!
 
+## 2020-10-30
+
+1. object tracking reference search
+2. writing resume
+3. watch youtube
+
 ## 2020-10-29
 
 1. NIPA 대회리스트 안내 시청
