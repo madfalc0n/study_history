@@ -16,16 +16,9 @@
 ## 참여방법
 
 1. 해당 repository를 Fork 한다.
-
 2. Fork한 repository에서 개인 폴더(Username으로 명시)를 만들고 당일 공부한 내용을 정리한다(자유양식).
-
 3. [User Manual](https://github.com/madfalc0n/study_history/wiki/How-to-update-your-history%3F)을 참고하여 Pull request 하시면 됩니다(확인 후 참여자 리스트에 추가 해드림).
-
-4. 다른 사람이 PR을 했다면 내용 확인 후 Approved를 눌러줍니다(최소 1명의 리뷰자가 있어야 merge 가능).
-
-   <img src="images/README/image-20201030214217258.png" alt="image-20201030214217258" style="zoom:80%;" />
-
-   <img src="images/README/image-20201030214331996.png" alt="image-20201030214331996" style="zoom:80%;" />
+4. 다른 사람이 PR을 했다면 내용 확인 후 Approved를 눌러줍니다(최소 1명의 리뷰자가 있어야 merge 가능, 방법을 알고 싶다면 [User Manual](https://github.com/madfalc0n/study_history/wiki/How-to-update-your-history%3F#5-%EB%8B%A4%EB%A5%B8-%EC%82%AC%EC%9A%A9%EC%9E%90-pr-%EB%A6%AC%EB%B7%B0-%EB%B0%8F-approve-%ED%97%88%EA%B0%80-%ED%95%B4%EC%A3%BC%EA%B8%B0) 참고).
 
 
 
