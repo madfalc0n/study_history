@@ -1,10 +1,11 @@
 # Dalmatian's Study History
 
 - 나의 하루 일과 리스트
+
   - 운동도 열심히
-    
+
     - 10k 45'' / half 1'40'' / full 3'45'' sub4 go
-    
+
     
 
 
@@ -274,9 +275,9 @@
 ------
 
 1. GSAT 3회 모의고사
-   
+
    - 오답정리
-   
+
 2. 개인 프로젝트
 
    - AWS Server - RDS 설정
@@ -286,6 +287,7 @@
 4. 이력서 작성
 
 5. 유튜브 시청
+
    - 클라우드 네이티브 아키텍처(CNA) 이해하기
 
    - EKS 로그 CloudWatch에 저장하기
@@ -472,7 +474,7 @@
 --------
 
 1. 리마 공부
-3. AWS Solution Architecture Professional 공부
+2. AWS Solution Architecture Professional 공부
 
 
 
@@ -701,3 +703,12 @@
 -------------
 
 1. k8s .. review
+
+
+
+### 2020-10-30
+
+---------
+
+1. k8s .. review
+2. 라톤 대회 준비 ㅎ
