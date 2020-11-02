@@ -1,9 +1,23 @@
 ## 2020년
 
+### 11월
+
+---
+
+* 2일
+  * 프로그래머스 - SQL
+  * python 정리 - deque, heapq,list,dict.sort
+
+
+
 ### 10월
 
 ---
 
+* 31일
+
+  * 2020 winter-coding
+  
 * 30일
 
   * 리액트 다루는 기술
