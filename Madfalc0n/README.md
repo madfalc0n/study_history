@@ -2,6 +2,58 @@
 
 keep going!
 
+## 2020-10-30
+
+1. object tracking reference search
+2. writing resume
+3. watch youtube
+
+## 2020-10-29
+
+1. NIPA 대회리스트 안내 시청
+2. 자소서 작성
+
+## 2020-10-28
+
+1. 휴식
+
+## 2020-10-27
+
+1. NIPA 예선 제출 및 회의
+2. 백준 알고리즘 풀이
+
+## 2020-10-26
+
+1. NIPA 예선 1차 제출
+
+## 2020-10-25
+
+1. NIPA 예선 과제 진행
+   - train ing.......
+     - dataset length is 16000.. so i split dataset 
+       1. 0 to 4000
+       2. 4000 to 8000
+       3. 8000 to 12000
+       4. 12000 to 16000
+     - use 4-fold(train/test), so total 16 iteration process
+     - training data is plant images, predict is plant+disease
+     - use model efficientnet B3
+     - no use image augmentation(Ram limit)
+     - i expect training to take max 13 hours
+       - 1 step = 60s 
+       - epoch = 50
+       - 1 fold = 1 step * epoch = 3000s
+       - total time = 4 fold * 4 iter = 12000s * 4 = 48000s = 13h
+
+## 2020-10-24
+
+1. NIPA 예선 과제 진행
+2. 멀캠 SW 역량 테스트
+
+## 2020-10-23
+
+1. NIPA 예선 진행
+
 ## 2020-10-21
 
 1. Obeject detection baseline test
