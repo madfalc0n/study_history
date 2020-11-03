@@ -2,6 +2,11 @@
 
 keep going!
 
+## 2020-11-01
+
+1. NIPA...baseline 분석
+2. 자소서 작성
+
 ## 2020-10-30
 
 1. object tracking reference search
