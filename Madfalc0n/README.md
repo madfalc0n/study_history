@@ -2,6 +2,10 @@
 
 keep going!
 
+## 2020-11-03
+
+1. NIPA object tracking data check and analysis
+
 ## 2020-11-02
 
 1. NIPA 팀 회의 및 crack 분석?
