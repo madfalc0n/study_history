@@ -2,6 +2,11 @@
 
 keep going!
 
+## 2020-11-02
+
+1. NIPA 팀 회의 및 crack 분석?
+2. submit resume
+
 ## 2020-11-01
 
 1. NIPA...baseline 분석
