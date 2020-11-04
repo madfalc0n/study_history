@@ -2,6 +2,10 @@
 
 keep going!
 
+## 2020-11-04
+
+1. NIPA object tracking making tfrecord
+
 ## 2020-11-03
 
 1. NIPA object tracking data check and analysis
