@@ -1,9 +1,27 @@
 ## 2020년
 
+### 11월
+
+---
+
+* 3일
+  * nipa - ocr / CRNN
+  * 프로그래머스 - 가장 큰 정사각형 찾기, 행렬의 곱셈, JadenCase 문자열 만들기
+  * 프로그래머스 - SQL / JOIN
+* 2일
+  * 프로그래머스 - SQL / select , sum,max,min,group by , is null
+  * python 정리 - deque, heapq,list,dict.sort
+
+
+
 ### 10월
 
 ---
 
+* 31일
+
+  * 2020 winter-coding
+  
 * 30일
 
   * 리액트 다루는 기술
