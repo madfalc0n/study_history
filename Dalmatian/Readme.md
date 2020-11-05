@@ -745,3 +745,14 @@
 
 1. youtube
 2. apache&&tomcat 문제해결
+
+
+
+### 2020-11-04
+
+---------
+
+1. aws pj 정리
+2. sk 2020 ICT summit 관람
+3. k8s .. review
+4. 라톤 30k roadmap 짜기 ㅎ
