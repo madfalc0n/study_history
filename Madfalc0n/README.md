@@ -2,6 +2,15 @@
 
 keep going!
 
+## 2020-11-04
+
+1. NIPA object tracking problem
+   1.  ready for training
+      1. extract frame(train/test)
+      2. extract csv(train)
+      3. make label(.pbtxt file)
+      4. make tfrecord
+
 ## 2020-11-03
 
 1. NIPA object tracking data check and analysis
