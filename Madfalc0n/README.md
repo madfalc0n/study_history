@@ -2,6 +2,12 @@
 
 keep going!
 
+## 2020-11-05
+
+1. NIPA object tracking training complete
+   1. read for eval
+2. run a marathon(30K, 3:25:30)
+
 ## 2020-11-04
 
 1. NIPA object tracking problem
