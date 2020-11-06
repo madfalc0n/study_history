@@ -2,6 +2,11 @@
 
 keep going!
 
+## 2020-11-06
+
+1. NIPA 문제관련 meeting
+2. NIPA model predict
+
 ## 2020-11-05
 
 1. NIPA object tracking training complete
