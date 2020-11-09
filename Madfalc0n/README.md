@@ -2,6 +2,14 @@
 
 keep going!
 
+## 2020-11-08
+
+1. NIPA object tracking model training
+
+## 2020-11-07
+
+1. NIPA tile crack classification model training and augmentation
+
 ## 2020-11-06
 
 1. NIPA 문제관련 meeting
