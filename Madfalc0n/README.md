@@ -2,6 +2,14 @@
 
 keep going!
 
+## 2020-11-11
+
+1. NIPA model training
+   1. fire mountain
+   2. OCR text classfication
+   3. crack classification
+2. ready to interview
+
 ## 2020-11-10
 
 1. NIPA crack classification model training 
