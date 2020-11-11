@@ -2,6 +2,15 @@
 
 keep going!
 
+## 2020-11-10
+
+1. NIPA crack classification model training 
+
+## 2020-11-09
+
+1. NIPA crack classification model training 
+2. running
+
 ## 2020-11-08
 
 1. NIPA object tracking model training
