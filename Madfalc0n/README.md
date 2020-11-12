@@ -2,6 +2,12 @@
 
 keep going!
 
+## 2020-11-12
+
+1. NIPA model training
+   1. OCR
+2. ready to interview
+
 ## 2020-11-11
 
 1. NIPA model training
