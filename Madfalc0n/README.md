@@ -2,6 +2,20 @@
 
 keep going!
 
+## 2020-11-14
+
+1. NIPA final model training
+   1. fire mountain
+   2. OCR
+2. ready to interview
+
+## 2020-11-13
+
+1. NIPA model training
+   1. fire mountain
+   2. OCR
+2. ready to interview
+
 ## 2020-11-12
 
 1. NIPA model training
