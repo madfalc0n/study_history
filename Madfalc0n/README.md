@@ -2,6 +2,12 @@
 
 keep going!
 
+## 2020-11-15
+
+1. NIPA final model training
+   1. OCR....dsafwe weafsdf
+2. ready to interview
+
 ## 2020-11-14
 
 1. NIPA final model training
