@@ -2,6 +2,14 @@
 
 keep going!
 
+## 2020-11-16
+
+1. K-Fashion colab test
+
+2. ready to interview
+   1. CS...network
+   2. Deep learning cost function, gradient descent
+
 ## 2020-11-15
 
 1. NIPA final model training
