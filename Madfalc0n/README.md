@@ -2,6 +2,15 @@
 
 keep going!
 
+## 2020-11-17
+
+1. K-Fashion colab test
+   1. Data split train/valid
+   2. config setting
+   3. model training
+
+2. ready to interview
+
 ## 2020-11-16
 
 1. K-Fashion colab test
