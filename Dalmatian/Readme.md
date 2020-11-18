@@ -845,7 +845,23 @@
 ------
 
 1. IAM 구성
-2. nmap tcp flow 분석
+2. nmap tcp flow portscan 분석
 
 
+
+### 2020-11-16
+
+---------
+
+- Refresh g
+
+
+
+### 2020-11-17
+
+------------
+
+- resume
+- nmap packet flow graph 사용이해
+- backend 구성
 
