@@ -2,6 +2,20 @@
 
 keep going!
 
+## 2020-11-17
+
+1. K-Fashion colab test
+   1. Data split train/valid
+   2. config setting
+   3. model training
+   4. data predict(detection, segmentation)
+
+2. ready to interview
+   1. computer science(OS, network, data structure)
+   2. AI project review
+
+3. study history review and approved
+
 ## 2020-11-16
 
 1. K-Fashion colab test
