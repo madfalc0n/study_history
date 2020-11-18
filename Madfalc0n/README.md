@@ -2,6 +2,13 @@
 
 keep going!
 
+## 2020-11-18
+
+1. K-Fashion answer dummy submit
+   1. result is bad
+
+2. ready to interview
+
 ## 2020-11-17
 
 1. K-Fashion colab test
