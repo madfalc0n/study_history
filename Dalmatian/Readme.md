@@ -865,3 +865,10 @@
 - nmap packet flow graph 사용이해
 - backend 구성
 
+
+
+### 2020-11-18
+
+----
+
+- terraform.tf 이관과정에서 오류문제 해결
