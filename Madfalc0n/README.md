@@ -8,6 +8,8 @@ keep going!
    1. result is bad
 
 2. ready to interview
+   1. about various CNN
+   2. AI project review
 
 ## 2020-11-17
 
