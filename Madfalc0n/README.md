@@ -2,6 +2,11 @@
 
 keep going!
 
+## 2020-11-19
+
+1. ready to interview
+   1. about DL ML
+
 ## 2020-11-18
 
 1. K-Fashion answer dummy submit
