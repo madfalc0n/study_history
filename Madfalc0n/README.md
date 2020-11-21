@@ -2,6 +2,10 @@
 
 keep going!
 
+## 2020-11-21
+
+1. ready to interview
+
 ## 2020-11-20
 
 1. watch mindslab introduce
