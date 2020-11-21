@@ -2,6 +2,14 @@
 
 keep going!
 
+## 2020-11-20
+
+1. watch mindslab introduce
+
+2. ready to interview
+   1. about my
+   2. about DL
+
 ## 2020-11-19
 
 1. ready to interview
@@ -13,6 +21,8 @@ keep going!
    1. result is bad
 
 2. ready to interview
+   1. about various CNN
+   2. AI project review
 
 ## 2020-11-17
 
