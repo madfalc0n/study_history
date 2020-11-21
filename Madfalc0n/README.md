@@ -5,6 +5,9 @@ keep going!
 ## 2020-11-21
 
 1. ready to interview
+   1. about CS
+   2. about my
+   3. about opencv
 
 ## 2020-11-20
 
