@@ -2,9 +2,15 @@
 
 keep going!
 
+## 2020-11-23
+
+1. final ready to interview
+
+
 ## 2020-11-22
 
 1. ready to interview
+2. running
 
 ## 2020-11-21
 
