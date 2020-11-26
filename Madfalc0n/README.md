@@ -2,6 +2,18 @@
 
 keep going!
 
+## 2020-11-26
+
+1. break time
+
+## 2020-11-25
+
+1. break time
+
+## 2020-11-24
+
+1. interview
+
 ## 2020-11-23
 
 1. final ready to interview
