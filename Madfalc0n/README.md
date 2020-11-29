@@ -2,6 +2,11 @@
 
 keep going!
 
+## 2020-11-29
+
+1. study Reinforcement learning
+  1. [Q-learning](https://www.youtube.com/watch?v=3Ch14GDY5Y8)
+
 ## 2020-11-28
 
 1. break time
