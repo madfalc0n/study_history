@@ -2,6 +2,10 @@
 
 keep going!
 
+## 2020-11-30
+
+1. study Reinforcement learning
+
 ## 2020-11-29
 
 1. study Reinforcement learning
