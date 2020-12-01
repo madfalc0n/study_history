@@ -1,12 +1,25 @@
 ## 2020년
 
+## 12월
+
+* 1일
+  * 프로그래머스
+
+
+
+
+
+
+
 ### 11월
 
 ---
 
+* 4일
+  * 프로그래머스 - SQL / String , Date , level 4
 * 3일
   * nipa - ocr / CRNN
-  * 프로그래머스 - 가장 큰 정사각형 찾기, 행렬의 곱셈, JadenCase 문자열 만들기
+  * 프로그래머스 - 가장 큰 정사각형 찾기, 행렬의 곱셈, JadenCase 문자열 만들기 ///100문제 돌파
   * 프로그래머스 - SQL / JOIN
 * 2일
   * 프로그래머스 - SQL / select , sum,max,min,group by , is null
