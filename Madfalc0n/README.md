@@ -2,6 +2,10 @@
 
 keep going!
 
+## 2020-12-03
+
+1. configure K8s(master and worker), install ingress controller(HAproxy)
+
 ## 2020-12-02
 
 1. study RF learning
