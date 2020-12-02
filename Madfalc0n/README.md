@@ -2,6 +2,13 @@
 
 keep going!
 
+## 2020-12-02
+
+1. study RF learning
+  1. setting gym
+
+2. install docker and K8s, config setting
+
 ## 2020-12-01
 
 1. study RF learning
