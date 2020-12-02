@@ -2,6 +2,12 @@
 
 keep going!
 
+## 2020-12-01
+
+1. study RF learning
+
+2. my health care
+
 ## 2020-11-30
 
 1. study Reinforcement learning
