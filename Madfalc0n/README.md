@@ -2,6 +2,12 @@
 
 keep going!
 
+## 2020-12-04
+
+1. configure K8s
+  1. deployment, service, ingress
+  2. HAproxy
+
 ## 2020-12-03
 
 1. configure K8s(master and worker), install ingress controller(HAproxy)
