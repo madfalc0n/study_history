@@ -5,7 +5,7 @@ keep going!
 ## 2020-12-04
 
 1. configure K8s
-  1. deployment, service, ingress
+  1. deployment(update, rollback), service, ingress
   2. HAproxy
 
 ## 2020-12-03
