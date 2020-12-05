@@ -2,6 +2,12 @@
 
 keep going!
 
+## 2020-12-05
+
+1. configure K8s
+  1. setting ingress controller for HAproxy
+  2. setting VRRP(use keepalived)
+
 ## 2020-12-04
 
 1. configure K8s
