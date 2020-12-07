@@ -960,3 +960,5 @@
 ----------
 
 - MSA&K8S
+
+- lang automationscript 기억 안났다가 78.9% 되살렸고이 ㅎㅎ
