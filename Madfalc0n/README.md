@@ -2,6 +2,11 @@
 
 keep going!
 
+## 2020-12-07
+
+1. [Create K8s manual](https://github.com/madfalc0n/TIL/tree/master/Cloud/k8s)
+2. [Create Docker manual](https://github.com/madfalc0n/TIL/tree/master/Cloud/Docker)
+
 ## 2020-12-06
 
 1. break day
