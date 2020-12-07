@@ -2,6 +2,10 @@
 
 keep going!
 
+## 2020-12-07
+
+1. writing K8s manual
+
 ## 2020-12-06
 
 1. break day
