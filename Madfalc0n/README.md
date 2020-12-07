@@ -2,6 +2,10 @@
 
 keep going!
 
+## 2020-12-06
+
+1. break day
+
 ## 2020-12-05
 
 1. configure K8s
