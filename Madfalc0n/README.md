@@ -2,6 +2,11 @@
 
 keep going!
 
+## 2020-12-08
+
+1. Create K8s docs
+  1. [Dashboard](https://github.com/madfalc0n/TIL/blob/master/Cloud/k8s/docs/Kubernetes_dashboard.md)
+
 ## 2020-12-07
 
 1. [Create K8s manual](https://github.com/madfalc0n/TIL/tree/master/Cloud/k8s)
