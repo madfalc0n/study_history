@@ -2,6 +2,10 @@
 
 keep going!
 
+## 2020-12-09
+
+1. [Create Prometheus docs](https://github.com/madfalc0n/TIL/tree/master/Cloud/Prometheus)
+
 ## 2020-12-08
 
 1. Create K8s docs
