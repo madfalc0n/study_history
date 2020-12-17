@@ -2,6 +2,16 @@
 
 keep going!
 
+## 2020-12-17
+
+1. Naver AI Summit 시청
+
+## 2020-12-16
+
+1. 이력서 작성
+
+2. CI/CD 관련 git trigger & build & deploy 
+
 ## 2020-12-15
 
 1. 이력서 작성
