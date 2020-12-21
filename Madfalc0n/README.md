@@ -2,6 +2,14 @@
 
 keep going!
 
+## 2020-12-21
+
+1. Naver AI hands on submit 참가
+
+## 2020-12-20
+
+1. go fishing
+
 ## 2020-12-19
 
 1. running
