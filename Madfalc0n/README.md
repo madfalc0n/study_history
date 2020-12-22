@@ -2,6 +2,15 @@
 
 keep going!
 
+## 2020-12-21
+
+1. Naver AI hands on submit 참가
+  1. 네이버 클라우드 플랫폼을 이용해 AI 음성 인식구현
+
+## 2020-12-20
+
+1. go fishing
+
 ## 2020-12-19
 
 1. running
