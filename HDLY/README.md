@@ -9,9 +9,24 @@
 
 
 <hr>
+#### 2020-12-16
+
+1. DACON, [공간정보 탐색적 데이터 분석 경진대회] - 지도에 데이터 시각화
+2. Report,   <a href="https://blog.naver.com/handuelly/222183015298">D2C 시장이 여는 '뉴이커머스' 시대 - "네이버와 쇼피파이, 이커머스 시장 흔든다"</a>
 
 
-#### 2020-12-09
+
+#### 2020-12-21
+
+1. 빅데이터분석기사, 이기적 수험서 서평  <a href="https://blog.naver.com/handuelly/222180290339">포스팅</a>
+2. 뉴스 클리핑
+   1. <a href="https://blog.naver.com/handuelly/222180560182">[한국경제] "요금 1000원"…카카오, 세종서 '자율주행 콜택시' 첫 운행</a>
+   2. <a href="https://blog.naver.com/handuelly/222180780968">[AI타임스] 스포츠 중계에 AI 가 "홈런입니다~'' 외치는 장면 보게 된다</a>
+3. 노트, 주피터 노트북 테마 변경 <a href="https://blog.naver.com/handuelly/222181619019">포스팅</a>
+
+
+
+#### 2020-12-17
 
 1. 코딩, 프로그래머스 - 소수찾기(완전탐색) <a href="https://blog.naver.com/handuelly/222176777414">풀이</a>
 2. DACON, [공간정보 탐색적 데이터 분석 경진대회] - 좌표계 변환 코드 탐색, 그 외 데이터 분석
