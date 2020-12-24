@@ -2,6 +2,10 @@
 
 keep going!
 
+## 2020-12-22
+
+1. half running
+
 ## 2020-12-21
 
 1. Naver AI hands on submit 참가
