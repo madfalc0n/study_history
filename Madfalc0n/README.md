@@ -5,11 +5,13 @@ keep going!
 ## 2020-12-24
 
 1. 크리스마스 이브에는 쉬는게 국룰..
+2. 이력서 작성
 
 ## 2020-12-23
 
 1. kaggle NFL impact detection 대회
   1. 참가자들이 업로드한 노트북 참고하여 detection study
+2. 이력서 작성
 
 ## 2020-12-22
 
