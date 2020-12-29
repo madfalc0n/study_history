@@ -2,6 +2,11 @@
 
 keep going!
 
+## 2020-12-28
+
+1. Kaggle NFL 스터디
+2. 이력서 작성 및 제출
+
 ## 2020-12-27
 
 1. kaggle NFL impact detection 대회 관련 스터디
