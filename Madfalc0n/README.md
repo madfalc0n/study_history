@@ -2,6 +2,14 @@
 
 keep going!
 
+## 2020-12-30
+
+1. break day
+
+## 2020-12-29
+
+1. break day
+
 ## 2020-12-28
 
 1. Kaggle NFL 스터디
