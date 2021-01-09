@@ -5,6 +5,9 @@ keep going!
 ## 2021-01-09
 
 1. 독서
+2. 데이콘 컴피티션 참가
+  - data upload
+3. ML pipeline을 설계하기 위한 kubeflow 맛보기
 
 ## 2021-01-08
 
