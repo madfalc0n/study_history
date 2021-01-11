@@ -2,6 +2,13 @@
 
 keep going!
 
+## 2021-01-11
+
+1. 이력서, 포트폴리오 수정
+2. 데이콘 컴피티션 관련 팀 회의
+   1. 각 1회 LGBM train 및 제출
+   2. 원하는 모델 train 후 제출
+
 ## 2021-01-10
 
 1. 이력서 작성
@@ -10,7 +17,7 @@ keep going!
 
 1. 독서
 2. 데이콘 컴피티션 참가
-  - data upload
+   - data upload
 3. ML pipeline을 설계하기 위한 kubeflow 맛보기
 
 ## 2021-01-08
