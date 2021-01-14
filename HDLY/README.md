@@ -10,6 +10,61 @@
 <hr>
 
 
+#### 2021-01-14(목)
+
+1. T 아카데미, [인공지능을 위한 머신러닝 알고리즘]
+
+   1. 14강 "Theano를 통한 머신러닝 구현" - <a href="https://blog.naver.com/handuelly/222206949682">포스팅</a>
+   2. 15강 "Keras를 통한 딥러닝" - <a href="https://blog.naver.com/handuelly/222206962132">포스팅</a>
+   3. 수강 확인 테스트 실시, 통과 - <a href="https://blog.naver.com/handuelly/222206996678">포스팅</a>
+
+2. 뉴스 클리핑
+
+   1. <a href="https://blog.naver.com/handuelly/222207714891">[코로나 실업] 지난해 취업자 21.8만명 감소, IMF 이후 최악… "일 좀 하고 싶다"</a>
+   2. <a href="https://blog.naver.com/handuelly/222207737378">[파이낸셜뉴스] "개미만 피본다" "외국인 짐싼다".. 답없는 찬반 줄다리기 <증시·정치 블랙홀 된 공매도></a>
+
+3. DACON, [시스템 로그 분석, 사용자 불편 감지]
+
+   1. 2차 회의(16:30~17:00)
+
+   2. EDA
+
+   3. Baseline에 변수 추가(MH)
+
+      
+
+#### 2021-01-13(수)
+
+1. T 아카데미, [인공지능을 위한 머신러닝 알고리즘]
+
+   1. 12강 "딥러닝 응용 사례" - <a href="https://blog.naver.com/handuelly/222205746565">포스팅</a>
+   2. 13강 "Weka를 이용한 머신러닝" - <a href="https://blog.naver.com/handuelly/222205756708">포스팅
+
+2. 뉴스 클리핑
+
+   1. <a href="https://blog.naver.com/handuelly/222206028466">[ESG] 삼성, LG, SK, 카카오의 ESG 경영 전략</a>
+
+3. DACON, [시스템 로그 분석, 사용자 불편 감지]
+
+   1. 대회 코드 공유 & 토론 게시판 follow up
+
+   2. EDA
+
+      
+
+#### 2021-01-12(화)
+
+1. T 아카데미, [인공지능을 위한 머신러닝 알고리즘]
+
+   1. 09강 "컨볼루션 신경망" - <a href="https://blog.naver.com/handuelly/222204960303">포스팅</a>
+   2. 10강 "재현 신경망" - <a href="https://blog.naver.com/handuelly/222205159823">포스팅</a>
+   3. 11강 "메모리 네트워크" - <a href="https://blog.naver.com/handuelly/222205321972">포스팅</a>
+2. 뉴스 클리핑
+
+   1. <a href="https://blog.naver.com/handuelly/222205362958">[공매도 재개] 주가 폭등, 표심 노린 정치권, 그리고 동학개미들</a>
+
+
+
 
 #### 2021-01-11(월)
 
