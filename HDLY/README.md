@@ -10,6 +10,55 @@
 <hr>
 
 
+#### 2021-01-20(수)
+
+1. T 아카데미, [Pandas 기본기 다지기]
+
+   1. 3강 Pandas 데이터 입출력 I - Importing / Exporting (csv ,tsv, txt) - <a href="https://blog.naver.com/handuelly/222213431915">포스팅</a>
+   2. 4강 Pandas 데이터 입출력 II - Importing/Exporting (Excel, 데이터베이스) - <a href="https://blog.naver.com/handuelly/222213450042">포스팅</a>
+
+2. DACON, [시스템 로그 분석, 사용자 불편 감지]
+
+   1. date & hour : 주기성 체크 -> 유의미한 연관성은 없어 보임
+
+      
+
+#### 2021-01-19(화)
+
+1. T 아카데미, [Pandas 기본기 다지기]
+
+   1. 1강 Pandas 데이터구조 I, Series - <a href="https://blog.naver.com/handuelly/222212237442">포스팅</a>
+   2. 2강 Pandas 데이터구조 II, DataFrame - <a href="https://blog.naver.com/handuelly/222212279250">포스팅</a>
+
+2. 뉴스 클리핑
+
+   1. <a href="https://blog.naver.com/handuelly/222212464703">[ZDNetKorea] 네이버 쇼핑라이브 인기…6개월새 1억뷰 돌파</a>
+   2. <a href="https://blog.naver.com/handuelly/222212477235">[ZDNetKorea] 서비스 안정 의무 기업에 구글‧페북‧넷플‧네이버‧카카오‧웨이브</a>
+
+3. DACON, [시스템 로그 분석, 사용자 불편 감지]
+
+   1. 3차 회의(19:00~20:00)
+
+   2. Quality_Data : int로 변환 마무리 후 값 정규화. z-score / PCA 또는 다른 방식 적용Baseline에 변수 추가(MH)
+
+   3. fmver : 점(.)을 기준으로 펌웨어의 종류를 구분. 수치화해서 값으로써 구분하고, 모델 학습에 적용(JH)
+
+   4. date & hour : 주기성 체크. 유의미하다면 값으로 치환해섯 학습에 어떻게 적용시킬지 고민(HD)
+
+      
+
+#### 2021-01-15(금)
+
+1. DACON, [시스템 로그 분석, 사용자 불편 감지]
+
+   1. 데이터 파악
+
+2. 뉴스 클리핑
+
+   1. <a href="https://blog.naver.com/handuelly/222207737378">[파이낸셜뉴스] "개미만 피본다" "외국인 짐싼다".. 답없는 찬반 줄다리기 <증시·정치 블랙홀 된 공매도></a>
+
+   
+
 #### 2021-01-14(목)
 
 1. T 아카데미, [인공지능을 위한 머신러닝 알고리즘]
