@@ -10,6 +10,29 @@
 <hr>
 
 
+#### 2021-01-21(목)
+
+1. T 아카데미, [Pandas 기본기 다지기]
+
+   1. 5강 Pandas 데이터 다루기 - 인덱싱/슬라이싱/불리언 인덱싱/삭제 - <a href="https://blog.naver.com/handuelly/222214672887">포스팅</a>
+   2. 6강 Pandas 함수 I - Describe / Aggregate - <a href="https://blog.naver.com/handuelly/222214697057">포스팅</a>
+
+2. 뉴스 클리핑
+
+   1. <a href="https://blog.naver.com/handuelly/222214748353">[이데일리] 은행점포 폐쇄 브레이크‥금감원이 직접 관여한다</a>
+   2. <a href="https://blog.naver.com/handuelly/222214755822">[머니투데이] 금감원, 디지털금융 감독 강화…'기울어진 운동장' 바로잡는다</a>
+   3. <a href="https://blog.naver.com/handuelly/222214762918">[경향신문] 주식 공매도 금지 결국 연장되나···민주당 “연장이 다수···2월말~3월초 결정”</a>
+   4. <a href="https://blog.naver.com/handuelly/222214774148">[ZDNetKorea] SK이노, 中 교체식 배터리 사업 진출</a>
+
+3. DACON, [시스템 로그 분석, 사용자 불편 감지]
+
+   1. 4차 회의(17:00~18:00)
+   2. Quality_Data : int로 변환 마무리 후 변수로 추가(0.003 상승), 값 정규화는 아직(MH)
+   3. fmver : 점(.)을 기준으로 펌웨어의 종류를 구분... 대신 다른 작업 중(JH)
+   4. date & hour : err, problem, quality의 주기성 체크. 유의미한 해석이 필요(HD)
+
+   
+
 #### 2021-01-20(수)
 
 1. T 아카데미, [Pandas 기본기 다지기]
