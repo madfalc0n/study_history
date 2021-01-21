@@ -2,6 +2,10 @@
 
 ## 1월
 
+* 21일
+  * Python object oriented Programming
+  * Module and Project
+  * 4번째 과제 진행 - morsecode
 * 20일
   * python data structure
   * pythonic code
