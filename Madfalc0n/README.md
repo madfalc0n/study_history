@@ -5,13 +5,12 @@ keep going!
 ## 2021-01-23
 
 1. 데이콘 컴피티션 모델 학습
-2. ROS tutorial 진행
+2. ROS tutorial
+    - Chapter 1: ROS Deconstruction
 
 ## 2021-01-22
 
 1. 데이콘 컴피티션 관련 모델 제출
-2. ROS tutorial
-    - Chapter 1: ROS Deconstruction
 
 ## 2021-01-21
 
