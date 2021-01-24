@@ -3,12 +3,40 @@
 
 
 * <b>내일 할일</b>
-  * DACON, LGBM으로 돌려보면서 데이터 형태 파악... EDA 해보기?
+  * 
 
 
 
 <hr>
 
+
+#### 2021-01-22(금)
+
+1. DACON, [시스템 로그 분석, 사용자 불편 감지]
+   1. 5차 회의(19:00~18:00)
+   2. err, problem, quality 데이터들의 요일별 분포 그래프로 확인
+
+
+
+#### 2021-01-22(금)
+
+1. T 아카데미, [Pandas 기본기 다지기]
+
+   1. 7강 Pandas 함수 II - Apply / GroupBy - <a href="https://blog.naver.com/handuelly/222216021454">포스팅</a>
+   2. 8강 SKlearn 머신러닝 맛보기 - 의사결정나무- <a href="https://blog.naver.com/handuelly/222216029825">포스팅</a>
+   3. 수강 완료 - <a href="https://blog.naver.com/handuelly/222216033695">포스팅</a>
+
+2. 뉴스 클리핑
+
+   1. <a href="https://blog.naver.com/handuelly/222215925058">[중앙일보] '롤러블' 슬쩍 보여줘 호평 받더니…폰 접을수있다는 LG 왜</a>
+   2. <a href="https://blog.naver.com/handuelly/222215942708">[ZDNetKorea] 인텔, 7nm 칩 자체제조·위탁생산 동시에...삼성에 맡기나?</a>
+   3. <a href="https://blog.naver.com/handuelly/222215954042">[ZDNetKorea] "비트코인 삽니다"...이용자 간 직거래 서비스 등장</a>
+
+3. DACON, [시스템 로그 분석, 사용자 불편 감지]
+
+   1. quality data 값 분포 그래프로 시각화4차 회의(17:00~18:00)
+
+      
 
 #### 2021-01-21(목)
 
