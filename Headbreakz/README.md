@@ -2,6 +2,15 @@
 
 ## 1월
 
+* 26일
+  * 경사하강법
+* 25일
+  * Numpy
+  * Vector
+* 22일
+  * Exception
+  * log Handling
+  * Data handling
 * 21일
   * Python object oriented Programming
   * Module and Project
