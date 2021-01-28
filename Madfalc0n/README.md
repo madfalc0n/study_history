@@ -6,6 +6,10 @@ keep going!
 
 1. Dacon competition model training and predict
 2. study about C++
+   - iostream
+   - using namespace std;
+   - cout << "heello" << endl;
+   - cin >> input_value;
 
 ## 2021-01-28
 
