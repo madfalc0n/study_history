@@ -2,10 +2,16 @@
 
 keep going!
 
+## 2021-01-29
+
+1. Dacon competition model training and predict
+2. study about C++
+
 ## 2021-01-28
 
 1. Dacon competition data preprocessing and model training
 2. study about C++
+    - Hello, World!
 
 ## 2021-01-27
 
