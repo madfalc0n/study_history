@@ -2,6 +2,14 @@
 
 keep going!
 
+## 2021-01-27
+
+1. Dacon competition study and model predict
+
+## 2021-01-26
+
+1. Dacon competition data preprocess and model train and predict
+
 ## 2021-01-25
 
 1. 데이콘 컴피티션 모델 학습 및 제출
