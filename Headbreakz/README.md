@@ -2,6 +2,13 @@
 
 ## 1월
 
+* 29일
+  * Data visualization
+    * matplotlib
+  * Mathematics for AI - 확률론2
+* 28일
+  * pandas 2
+  * Mathematics for AI - 확률론
 * 27일
   * pandas
   * 역전파
