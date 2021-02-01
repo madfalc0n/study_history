@@ -2,10 +2,13 @@
 
 keep going!
 
-## 2021-01-30
+## 2021-02-01
+
+1. Dacon competition study and data training and predict
+
+## 2021-01-31
 
 1. Dacon competition Data EDA and training and predict
-
 
 ## 2021-01-30
 
