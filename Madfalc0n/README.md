@@ -2,6 +2,31 @@
 
 keep going!
 
+## 2021-01-30
+
+1. Dacon competition Data EDA and training and predict
+
+
+## 2021-01-30
+
+1. Dacon competition Data EDA and training
+2. study about C++
+
+## 2021-01-29
+
+1. Dacon competition model training and predict
+2. study about C++
+   - iostream
+   - using namespace std;
+   - cout << "heello" << endl;
+   - cin >> input_value;
+
+## 2021-01-28
+
+1. Dacon competition data preprocessing and model training
+2. study about C++
+    - Hello, World!
+
 ## 2021-01-27
 
 1. Dacon competition study and model predict
