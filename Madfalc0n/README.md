@@ -2,6 +2,11 @@
 
 keep going!
 
+## 2021-02-04
+
+1. coding test
+2. Dacon competition +submit
+
 ## 2021-02-03
 
 1. Dacon competition study and final submit
