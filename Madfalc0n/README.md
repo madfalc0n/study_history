@@ -2,6 +2,14 @@
 
 keep going!
 
+## 2021-02-03
+
+1. Dacon competition study and final submit
+
+## 2021-02-02
+
+1. break day
+
 ## 2021-02-01
 
 1. Dacon competition study and data training and predict
