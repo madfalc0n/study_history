@@ -5,7 +5,7 @@ keep going!
 ## 2021-02-26
 
 1. ROS tutorial
-   - Action에 대해서...
+   - Action 통신방식을 이용한 드론 제어
    - turtle bot 움직이게 해보기
 2. 이력서 작성
 3. Dacon 모션 키포인트 검출 AI 데이터 check
