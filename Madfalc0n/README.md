@@ -2,6 +2,19 @@
 
 keep going!
 
+## 2021-03-02
+
+1. ROS tutorial
+   - Action 통신에 대한 내용 정리(goal, cancel, feedback, status, result)
+
+## 2021-03-01
+
+1. 이력서 작성
+
+## 2021-02-28
+
+1. 휴식
+
 ## 2021-02-26
 
 1. ROS tutorial
