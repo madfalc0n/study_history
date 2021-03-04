@@ -2,6 +2,14 @@
 
 keep going!
 
+## 2021-03-03
+
+1. ROS tutorial
+   - Action 통신을 이용한 드론 제어
+   - Kalman Filter 정리
+2. 이력서 작성
+3. 미니 프로젝트
+
 ## 2021-03-02
 
 1. ROS tutorial
