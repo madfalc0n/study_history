@@ -5,6 +5,7 @@ keep going!
 ## 2021-03-04
 
 1. 이력서 작성 및 제출
+2. [머신러닝 모델링의 흔한 실수들](https://www.youtube.com/watch?v=BmpZ5Xi7ckg&t=21s) 유튜브 강의 시청
 
 ## 2021-03-03
 
