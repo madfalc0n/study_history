@@ -6,6 +6,7 @@ keep going!
 
 1. ROS tutorial
    - 디버깅 방법
+2. 알고리즘 공부
 
 ## 2021-03-11
 
