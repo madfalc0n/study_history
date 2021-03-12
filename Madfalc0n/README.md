@@ -15,6 +15,9 @@ keep going!
 2. ROS Project
    - Help TurtleBot robot get out of the maze
 
+3. 이력서 작성
+
+
 ## 2021-03-11
 
 1. ROS tutorial
