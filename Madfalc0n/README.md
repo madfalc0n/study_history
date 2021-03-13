@@ -4,11 +4,27 @@ keep going!
 
 ## 2021-03-12
 
+1. 논문 훑어보기
+   - [Data Augmentation of Wearable Sensor Data for Parkinson’s Disease Monitoring using Convolutional Neural Networks](https://arxiv.org/pdf/1706.00527.pdf)
+     - wearable 센서데이터에서 augmentation을 수행하여 CNN 모델의 성능을 향상 시킴(77.54% to 86.88%)
+   - [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://openreview.net/pdf?id=YicbFdNTTy)
+     - 기존 컴퓨터 비전 CNN 모델 방식이 아닌 패치단위로 이미지를 나누고 단어처럼 임베딩하여 학습을 진행
+     - 거대 이미지 데이터 셋(1400만 이상)를 통해 학습한 결과 기존 CNN 모델 방식에 비해 정확도가 향상되었음
+     - 참고 : [https://engineer-mole.tistory.com/133](https://engineer-mole.tistory.com/133)
+   
+2. ROS Project
+   - Help TurtleBot robot get out of the maze
+
+3. 이력서 작성
+
+
+## 2021-03-11
+
 1. ROS tutorial
    - 디버깅 방법
 2. 알고리즘 공부
 
-## 2021-03-11
+## 2021-03-10
 
 1. 등산
 
