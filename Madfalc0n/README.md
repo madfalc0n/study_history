@@ -6,6 +6,7 @@ keep going!
 
 1. 롯데 AI 경진대회 알고리즘 제출
 2. 이력서 작성
+3. ROS navigation 공부
 
 
 
