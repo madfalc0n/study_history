@@ -9,6 +9,7 @@ keep going!
 1. 롯데 AI 경진대회 알고리즘 제출
 2. ROS navigation & URDF study
 3. 이력서 작성 및 제출
+4. cutmix 구현
 
 
 
