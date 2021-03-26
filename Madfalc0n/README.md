@@ -4,6 +4,15 @@ keep going!
 
 
 
+## 2021-03-26
+
+1. 롯데 AI 경진대회 알고리즘 제출
+   - Public : 93.421( 5 / 105 )
+2. 컴퓨터 비전 관련 논문 읽기
+   - [Adversarial camera stickers: A physical camera-based attack on deep learning systems](http://proceedings.mlr.press/v97/li19j/li19j.pdf)
+
+
+
 ## 2021-03-25
 
 1. 롯데 AI 경진대회 알고리즘 제출
