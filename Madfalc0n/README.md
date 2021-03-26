@@ -18,7 +18,8 @@ keep going!
 1. 롯데 AI 경진대회 알고리즘 제출
 2. ROS navigation & URDF study
 3. 이력서 작성 및 제출
-4. cutmix 구현
+4. 컴퓨터 비전 관련 논문 읽기 및 구현
+   - [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://arxiv.org/pdf/1905.04899.pdf)
 
 
 
