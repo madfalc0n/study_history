@@ -2,6 +2,17 @@
 
 keep going!
 
+
+
+## 2021-03-25
+
+1. 롯데 AI 경진대회 알고리즘 제출
+2. ROS navigation & URDF study
+3. 이력서 작성 및 제출
+4. cutmix 구현
+
+
+
 ## 2021-03-24
 
 1. 롯데 AI 경진대회 알고리즘 제출
