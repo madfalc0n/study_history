@@ -4,6 +4,14 @@ keep going!
 
 
 
+## 2021-03-27
+
+1. UC Berkeley CS W182 / 282A
+   - lecture 2 : ML Basics 1 : Part 1 ~ 4
+2. 롯데 경진대회 진행관련 내용 정리
+
+
+
 ## 2021-03-26
 
 1. 롯데 AI 경진대회 알고리즘 제출
