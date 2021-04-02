@@ -2,6 +2,11 @@
 
 keep going!
 
+## 2021-04-02
+
+1. 딥러닝 논문리뷰영상 보기
+   - [Faster R-CNN](https://www.youtube.com/watch?v=kcPAGIgBGRs)
+   - [SqueezeNext](https://www.youtube.com/watch?v=WReWeADJ3Pw)
 
 
 ## 2021-04-01
