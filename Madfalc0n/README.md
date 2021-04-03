@@ -2,6 +2,15 @@
 
 keep going!
 
+## 2021-04-02
+
+1. 딥러닝 논문리뷰영상 보기
+   - [Faster R-CNN](https://www.youtube.com/watch?v=kcPAGIgBGRs)
+   - [SqueezeNext](https://www.youtube.com/watch?v=WReWeADJ3Pw)
+   - [Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/pdf/1911.04252.pdf)
+     - aug + teacher-student + semi supervised learning
+2. 알고리즘 문제 풀기
+   - bfs, dfs
 
 
 ## 2021-04-01
