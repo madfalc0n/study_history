@@ -9,6 +9,7 @@ keep going!
 1. UC Berkeley CS W182 / 282A
    - lecture 3 : ML Basics 3
    - lecture 4 : Optimization
+2. 알고리즘 및 AI 스터디
 
 
 
