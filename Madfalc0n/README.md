@@ -4,6 +4,15 @@ keep going!
 
 
 
+## 2021-04-04
+
+1. UC Berkeley CS W182 / 282A
+   - lecture 3 : ML Basics 3
+   - lecture 4 : Optimization
+2. 알고리즘 및 AI 스터디
+
+
+
 ## 2021-04-03
 
 1. 코딩 테스트
