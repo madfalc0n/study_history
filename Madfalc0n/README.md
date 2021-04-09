@@ -4,6 +4,21 @@ keep going!
 
 
 
+## 2021-04-08
+
+1. 알고리즘 풀이
+
+
+
+## 2021-04-07
+
+1. 이력서 작성 및 제출
+2. 알고리즘 풀이
+3. Grad-CAM 코드 구현
+   - [keras code examples](https://keras.io/examples/vision/grad_cam/)
+
+
+
 ## 2021-04-06
 
 1. 토이프로젝트 진행(노트북 도난방지 프로그램)
