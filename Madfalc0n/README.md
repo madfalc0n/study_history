@@ -4,6 +4,19 @@ keep going!
 
 
 
+## 2021-04-14
+
+1. 토이프로젝트 진행([노트북 도난방지 프로그램](https://github.com/madfalc0n/check_for_PC_status))
+   - README 작성
+   - 로그 기능 및 사진전송 기능 추가
+   - 최적화
+
+2. 논문 읽기
+
+   - [Groupface](https://tech.kakaoenterprise.com/70)
+
+     
+
 ## 2021-04-13
 
 1. 토이프로젝트 진행(노트북 도난방지 프로그램)
