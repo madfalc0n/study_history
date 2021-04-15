@@ -4,6 +4,16 @@ keep going!
 
 
 
+## 2021-04-15
+
+1. 알고리즘 풀이 및 코딩 테스트 진행
+   - [Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study) 30주차 문제 풀이
+   - 프로그래머스 월간 챌린지 시즌2
+2. 논문 읽기
+   - [Towards Real-Time Multi-Object Tracking](https://arxiv.org/pdf/1909.12605v1.pdf)
+
+
+
 ## 2021-04-14
 
 1. 토이프로젝트 진행([노트북 도난방지 프로그램](https://github.com/madfalc0n/check_for_PC_status))
