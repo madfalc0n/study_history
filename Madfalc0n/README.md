@@ -4,6 +4,14 @@ keep going!
 
 
 
+## 2021-04-23
+
+1. 알고리즘 풀이 및 코딩 테스트 진행
+   - [Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study) 30주차 문제 풀이(벽 부수고 이동하기4)
+   - [Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study) 31주차 문제 풀이(확장게임)
+
+
+
 ## 2021-04-22
 
 1. JOB Interview
