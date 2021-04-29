@@ -2,7 +2,21 @@
 
 keep going!
 
-## 2021-04-26
+
+
+## 2021-04-29
+
+1. 이력서 작성
+
+
+
+## 2021-04-28
+
+1. 휴식
+
+
+
+## 2021-04-27
 
 1. 알고리즘 풀이 및 코딩 테스트 진행
    - [Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study) 32주차 문제 풀이(이중우선순위큐)
