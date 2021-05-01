@@ -4,6 +4,13 @@ keep going!
 
 
 
+## 2021-05-01
+
+1. 데이콘 대회 데이터 탐색
+   - [로그 분석을 통한 보안 위험도 예측 AI 경진대회](https://dacon.io/competitions/official/235717/overview/description/)
+
+2. NLP 자연어 전처리 코드 분석
+
 ## 2021-04-30
 
 1. 코딩 테스트
