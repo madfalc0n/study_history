@@ -4,6 +4,19 @@ keep going!
 
 
 
+## 2021-05-03
+
+1. 알고리즘 풀이 및 코딩 테스트 진행
+   - [Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study) 33주차 문제 풀이(생태학)
+
+
+
+## 2021-05-02
+
+1. 낚시
+
+
+
 ## 2021-05-01
 
 1. 데이콘 대회 데이터 탐색
