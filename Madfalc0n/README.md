@@ -1,8 +1,29 @@
-## 2021 Madfalcon's Study History
+# 2021 Madfalcon's Study History
 
 keep going!
 
 
+
+## 2021-05-06
+
+1. 낚시
+
+
+
+## 2021-05-05
+
+1. 알고리즘 풀이 및 코딩 테스트 진행
+   - [Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study) 33주차 문제 풀이(디스크컨트롤러)
+2. 이력서 작성 및 제출
+
+
+
+## 2021-05-04
+
+1. NLP 자연어 전처리 코드 분석
+2. 이력서 작성
+3. 알고리즘 풀이 및 코딩 테스트 진행
+   - [Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study) 33주차 문제 풀이(소문난칠공주)
 
 ## 2021-05-03
 
