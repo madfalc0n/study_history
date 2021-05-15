@@ -4,6 +4,12 @@ keep going!
 
 
 
+## 2021-05-14
+
+1. 논문 정리한 내용 발표
+
+
+
 ## 2021-05-13
 
 1. 논문 읽기 및 정리
@@ -19,8 +25,6 @@ keep going!
 ## 2021-05-11
 
 1. 논문 읽기
-   - [Deep Learning Applications for Hyperspectral Imaging : A Systematic Review](https://www.researchgate.net/publication/339580294_Deep_Learning_Applications_for_Hyperspectral_Imaging_A_Systematic_Review)
-   - Hyperspectral Image classification With Deep Feature Fusion Network
 
 
 
