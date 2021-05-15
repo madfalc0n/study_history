@@ -8,7 +8,7 @@ keep going!
 
 1. 파이토치 코드 분석
 2. pyqt framework 리마인드
-
+3. TIL 문서 정리
 
 
 ## 2021-05-14
