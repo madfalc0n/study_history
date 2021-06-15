@@ -4,11 +4,17 @@ keep going!
 
 
 
+## 2021-06-15
+
+1. 성능 향상를 위한 테스트(CAE with HSI data)
+
+
+
 ## 2021-06-14
 
 1. 성능 향상를 위한 테스트(CAE with HSI data)
 2. 영어회화 스터디
-3. 논문 읽기
+3. 논문 읽기(Hyperspectral Anomaly Detection by Fractional Fourier Entropy)
 
  
 
