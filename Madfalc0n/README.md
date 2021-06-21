@@ -4,6 +4,12 @@ keep going!
 
 
 
+## 2021-06-21
+
+1. [C++ study](https://www.youtube.com/watch?v=MxiNB3QzGtU)
+
+
+
 ## 2021-06-20
 
 1. 휴식
