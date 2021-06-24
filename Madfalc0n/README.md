@@ -4,6 +4,27 @@ keep going!
 
 
 
+## 2021-06-24
+
+1. 연구개발 계획서 내용 검토 및 보완
+2. C++ GUI 구현
+
+
+
+## 2021-06-23
+
+1. C++ GUI 구현
+2. torch model to c++ 
+
+
+
+## 2021-06-22
+
+1. C++ GUI 구현
+2. 연구개발 계획서 내용 검토 및 보완
+
+
+
 ## 2021-06-21
 
 1. [C++ study](https://www.youtube.com/watch?v=MxiNB3QzGtU)
