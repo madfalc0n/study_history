@@ -2,6 +2,20 @@
 
 keep going!
 
+
+
+## 2021-06-29
+
+1. NextRise support
+
+
+
+## 2021-06-28
+
+1. NextRise support
+
+
+
 ## 2021-06-27
 
 1. 논문 읽고 코드로 구현하기(AESc)
