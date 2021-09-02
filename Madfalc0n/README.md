@@ -4,6 +4,20 @@ keep going!
 
 
 
+## 2021-08-27
+
+1. Model Training GUI 구현
+   - 아키텍쳐 구상 및 테스트
+
+
+
+## 2021-08-26
+
+1. BAE,BCAE 모델 성능 테스트
+   - 결과가 좋지않음..Correntropy loss 말고 다른 loss 구상해봐야 할듯
+
+
+
 ## 2021-08-25
 
 1. BAE, BCAE 모델 설계 및 성능 테스트
