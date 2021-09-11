@@ -4,6 +4,31 @@ keep going!
 
 
 
+## 2021-09-10
+
+1. 논문 읽기
+2. 머신러닝 기초 다시 공부
+   - [SVM](https://www.youtube.com/watch?v=dP9CDyR0L3E)
+
+
+
+## 2021-09-09
+
+1. Training GUI 개발
+   - UI 개선
+2. 신입 면접
+
+
+
+## 2021-09-08
+
+1. Training GUI 개발
+   - UI 개선
+2. 신입 면접
+3. 논문 읽기
+
+
+
 ## 2021-09-07
 
 1. Training GUI 개발
