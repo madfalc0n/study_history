@@ -4,17 +4,39 @@ keep going!
 
 
 
+## 2021-09-23
+
+1. 초분광 카메라 하드웨어 연동 테스트 진행
+   1. 트러블 슈팅 fail
+2. AD 및 continual learning 논문 읽기 
+
+
+
+## 2021-09-17 ~ 2021-09-22
+
+- 연차 및 추석
+- 낚시, 달리기 등등 집에서 뒹굴기
+
+
+
+## 2021-09-16
+
+1. 논문 읽고 공부
+   - GMM, K-mean
+   - DEEP AUTOENCODING GAUSSIAN MIXTURE MODEL FOR UNSUPERVISED ANOMALY DETECTION
+
+2. C++ TCP/IP 소켓 구현 관련 스터디
+
 
 
 ## 2021-09-15
 
 1. C++ TCP/IP 소켓 테스트
    - 서버 클라이언트 구현 후 통신테스트 진행
-
 2. DSAD 기능 추가 개선
    - 학습 데이터 호출 기능 수정
-
 3. PC 백업
+4. 
 
 ## 2021-09-14
 
