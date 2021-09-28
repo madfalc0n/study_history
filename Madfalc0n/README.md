@@ -4,6 +4,13 @@ keep going!
 
 
 
+## 2021-09-28
+
+1. Qt creator tutorial 진행
+2. GUI 디자인 관련 미팅
+
+
+
 ## 2021-09-27
 
 1. 논문 읽기
